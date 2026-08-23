@@ -2,7 +2,7 @@
 
 Self-hosted recreation of [247px.com](https://www.247px.com/) — Jasmine Wilson’s photography portfolio.
 
-Live: https://heyjasminej.github.io/247px/
+Live: https://247px.com/
 
 Each stacked image is a clickable / swipeable carousel of photos and videos, imported from the live Framer site.
 
