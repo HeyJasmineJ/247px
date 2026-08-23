@@ -162,6 +162,7 @@ a {
   display: flex;
   flex-direction: column;
   align-items: center;
+  gap: 20px;
   width: min(740px, 50vw);
   margin-left: auto;
   padding: 20px 0 80px;
@@ -170,7 +171,7 @@ a {
 .hint {
   width: 85%;
   max-width: var(--gallery-width);
-  margin: 0 0 16px;
+  margin: 0;
   color: var(--muted);
   font-size: 14px;
   line-height: 2;
@@ -185,7 +186,7 @@ a {
 .carousel {
   position: relative;
   width: 100%;
-  padding: 10px;
+  padding: 0;
 }
 
 .carousel-track {
@@ -215,6 +216,7 @@ a {
 .slide {
   position: relative;
   width: 100%;
+  aspect-ratio: 2 / 3;
   overflow: hidden;
   background: #111;
 }
@@ -222,6 +224,8 @@ a {
 .slide img,
 .slide video,
 .slide iframe {
+  position: absolute;
+  inset: 0;
   display: block;
   width: 100%;
   height: 100%;
@@ -302,7 +306,7 @@ a {
   .work {
     width: 100%;
     margin: 0 auto;
-    padding: 0 0 48px;
+    padding: 0 20px 48px;
   }
 
   .hint {

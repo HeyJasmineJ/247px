@@ -93,10 +93,7 @@ function Carousel({ slides, label }: Props) {
       >
         {slides.map((slide, i) => (
           <li key={`${slide.src}-${i}`} aria-label={`${i + 1} of ${count}`}>
-            <div
-              className="slide"
-              style={{ aspectRatio: slide.aspect || 2 / 3 }}
-            >
+            <div className="slide">
               <SlideMedia slide={slide} eager={i === 0} />
             </div>
           </li>
