@@ -1,0 +1,3950 @@
+{
+  "site": {
+    "title": "247px - Jasmine Wilson - Austin Texas Photographer",
+    "description": "247px \u2013 The Photo Work of Jasmine Wilson. Austin, TX Based Photographer",
+    "name": "Jasmine Wilson",
+    "tagline": "Austin TX Based Photographer",
+    "hint": "Use the arrows on each image to view more of the gallery. (Swipe on mobile.) :)",
+    "email": "jasmine@247px.com",
+    "links": [
+      {
+        "label": "jasmine@247px.com",
+        "href": "mailto:jasmine@247px.com"
+      },
+      {
+        "label": "Photo IG",
+        "href": "https://www.instagram.com/247px"
+      },
+      {
+        "label": "Book A Shoot",
+        "href": "https://calendly.com/jasmine-247px"
+      },
+      {
+        "label": "Personal IG",
+        "href": "https://www.instagram.com/heyjasminej"
+      }
+    ]
+  },
+  "galleries": [
+    {
+      "id": "missy",
+      "label": "Missy Elliott",
+      "slides": [
+        {
+          "type": "image",
+          "src": "/media/200KfjGka6LgBXPDd6xLo8mdwY.webp",
+          "width": 1681,
+          "height": 2521,
+          "aspect": 0.666799,
+          "alt": "Missy 6"
+        },
+        {
+          "type": "image",
+          "src": "/media/toceA3RkxZPeHV9a3lpYkpHkUI.jpg",
+          "width": 2944,
+          "height": 4416,
+          "aspect": 0.666667,
+          "alt": "Missy 7"
+        },
+        {
+          "type": "image",
+          "src": "/media/qsocODK7gNuHEy8ToEovrUF7eic.jpg",
+          "width": 3553,
+          "height": 5329,
+          "aspect": 0.666729,
+          "alt": "Missy 2"
+        },
+        {
+          "type": "image",
+          "src": "/media/KODzdaNLzplgt99ZNNKSbWwhkU.webp",
+          "width": 2663,
+          "height": 3995,
+          "aspect": 0.666583,
+          "alt": "Missy 4"
+        },
+        {
+          "type": "image",
+          "src": "/media/ByofikDDC9Ldr5PtRLDKPvBHiiI.jpg",
+          "width": 2894,
+          "height": 4341,
+          "aspect": 0.666667,
+          "alt": "Missy 8"
+        },
+        {
+          "type": "image",
+          "src": "/media/sLhXgeXx04CHh9TtDQlr0qz1Ao.jpg",
+          "width": 6336,
+          "height": 9504,
+          "aspect": 0.666667,
+          "alt": "Missy 9"
+        },
+        {
+          "type": "image",
+          "src": "/media/1Mdf1fHZVtWeT7Z17jE1eb0ccZ4.jpg",
+          "width": 9504,
+          "height": 6336,
+          "aspect": 1.5,
+          "alt": "Missy 10"
+        },
+        {
+          "type": "image",
+          "src": "/media/2G5wwcY9weQjIYsI7pjgMNjTQ.jpg",
+          "width": 7474,
+          "height": 4983,
+          "aspect": 1.4999,
+          "alt": "Missy 11"
+        },
+        {
+          "type": "image",
+          "src": "/media/rtltAo2Wo25hMqRa3sSgQs0ZBq8.jpg",
+          "width": 9504,
+          "height": 6336,
+          "aspect": 1.5,
+          "alt": "Missy 12"
+        },
+        {
+          "type": "image",
+          "src": "/media/Mrl1ncUcpxXosuPDv6XlsHRFg.jpg",
+          "width": 9331,
+          "height": 6221,
+          "aspect": 1.49992,
+          "alt": "Missy 13"
+        },
+        {
+          "type": "image",
+          "src": "/media/OqIcuxcRzJL1ycCDrXnbNTrHs0.webp",
+          "width": 8136,
+          "height": 5424,
+          "aspect": 1.5,
+          "alt": "681b6363a2c2976fbef6a075 AR505095"
+        }
+      ]
+    },
+    {
+      "id": "ari",
+      "label": "Ari Lennox",
+      "slides": [
+        {
+          "type": "image",
+          "src": "/media/ibSV36Hf2fXaNHFOMDh3AXARfM.jpg",
+          "width": 5629,
+          "height": 8444,
+          "aspect": 0.666627,
+          "alt": "Ari 1"
+        },
+        {
+          "type": "image",
+          "src": "/media/HNiyzvKUABHOmE068q3rkPU5UCQ.jpg",
+          "width": 5473,
+          "height": 8209,
+          "aspect": 0.666707,
+          "alt": "Ari 2"
+        },
+        {
+          "type": "image",
+          "src": "/media/cBYtTRyD2N94ggLNOAZNhd6Zk4.jpg",
+          "width": 6336,
+          "height": 9504,
+          "aspect": 0.666667,
+          "alt": "Ari 3"
+        },
+        {
+          "type": "image",
+          "src": "/media/4rLv1mJOwtooPKKSbmzfqXgrw.webp",
+          "width": 2645,
+          "height": 3968,
+          "aspect": 0.666583,
+          "alt": "Ari 4"
+        },
+        {
+          "type": "image",
+          "src": "/media/8PNbzm6K7GxXuiJS41zIOPoHwk.webp",
+          "width": 1337,
+          "height": 2006,
+          "aspect": 0.6665,
+          "alt": "Ari 8"
+        },
+        {
+          "type": "image",
+          "src": "/media/KJK6lblzscrBmSRDAEhxgviDvE.webp",
+          "width": 4128,
+          "height": 6192,
+          "aspect": 0.666667,
+          "alt": "Ari 5"
+        },
+        {
+          "type": "image",
+          "src": "/media/USseZGPW0GxaigOpbkOoj7rWoI.webp",
+          "width": 6785,
+          "height": 10177,
+          "aspect": 0.666699,
+          "alt": "Ari 6"
+        },
+        {
+          "type": "image",
+          "src": "/media/vYWsNAPQVQiBJAT4JyqXj0R87sA.jpg",
+          "width": 5237,
+          "height": 7855,
+          "aspect": 0.666709,
+          "alt": "Ari 9"
+        },
+        {
+          "type": "image",
+          "src": "/media/PtJwg5CN2CIIpYdqHsOliAWTG8.jpg",
+          "width": 3598,
+          "height": 5397,
+          "aspect": 0.666667,
+          "alt": "Ari 10"
+        },
+        {
+          "type": "image",
+          "src": "/media/dfQLqUNmDqSFxJO17SiAg0OQZHE.webp",
+          "width": 3470,
+          "height": 5205,
+          "aspect": 0.666667,
+          "alt": "Ari 11"
+        },
+        {
+          "type": "image",
+          "src": "/media/eG1QzxT4r0C530bhgqvJBsUJY.jpg",
+          "width": 4151,
+          "height": 6227,
+          "aspect": 0.666613,
+          "alt": "Ari 14"
+        },
+        {
+          "type": "image",
+          "src": "/media/zTTt7KHC1sha3X2uiSuNgFjPBiI.jpg",
+          "width": 5515,
+          "height": 8273,
+          "aspect": 0.666626,
+          "alt": "Ari 17"
+        },
+        {
+          "type": "image",
+          "src": "/media/o9f83amgLCeBn7QuPA4xIUQ71TY.webp",
+          "width": 5049,
+          "height": 7573,
+          "aspect": 0.666711,
+          "alt": "Ari 23"
+        },
+        {
+          "type": "image",
+          "src": "/media/EfHv8NmBimDIbi004oiX5KsgveU.webp",
+          "width": 4792,
+          "height": 7188,
+          "aspect": 0.666667,
+          "alt": "Ari 7"
+        }
+      ]
+    },
+    {
+      "id": "miguel",
+      "label": "Miguel",
+      "slides": [
+        {
+          "type": "image",
+          "src": "/media/NSGXX30C9D4hWCldacOrrJuiEZg.jpg",
+          "width": 5926,
+          "height": 8889,
+          "aspect": 0.666667,
+          "alt": "Miguel 11"
+        },
+        {
+          "type": "image",
+          "src": "/media/f0mKjrk7YvYTBIki6UlWmJdE4g.jpg",
+          "width": 5615,
+          "height": 8422,
+          "aspect": 0.666706,
+          "alt": "Miguel 8"
+        },
+        {
+          "type": "image",
+          "src": "/media/Wy34C70PZSALGMl4VoXyqZvhhU.webp",
+          "width": 1357,
+          "height": 2036,
+          "aspect": 0.666503,
+          "alt": "Miguel 2"
+        },
+        {
+          "type": "image",
+          "src": "/media/jtIcJmVLDJugOP6WLKjDeJBQvCo.webp",
+          "width": 2786,
+          "height": 4179,
+          "aspect": 0.666667,
+          "alt": "Miguel 1"
+        },
+        {
+          "type": "image",
+          "src": "/media/LISCDjCyUi6meoyGED6IpsFreI.webp",
+          "width": 5779,
+          "height": 8668,
+          "aspect": 0.666705,
+          "alt": "Miguel 3"
+        },
+        {
+          "type": "image",
+          "src": "/media/IoSsDIOpOr2QXQ9J7KuJnSQt1U.webp",
+          "width": 5077,
+          "height": 7615,
+          "aspect": 0.66671,
+          "alt": "Miguel 6"
+        },
+        {
+          "type": "image",
+          "src": "/media/6ZWSU53UQRcUX9OaTipmf2m7zo.webp",
+          "width": 4791,
+          "height": 7187,
+          "aspect": 0.66662,
+          "alt": "Miguel 4"
+        },
+        {
+          "type": "image",
+          "src": "/media/Z4XE9z1YNMSYaxq6o2nWKorOI.jpg",
+          "width": 5864,
+          "height": 8796,
+          "aspect": 0.666667,
+          "alt": "Miguel 7"
+        },
+        {
+          "type": "image",
+          "src": "/media/5YuLByi6EE0Bgm48kthaS768hs.webp",
+          "width": 4809,
+          "height": 7214,
+          "aspect": 0.66662,
+          "alt": "Miguel 12"
+        },
+        {
+          "type": "image",
+          "src": "/media/DcYLr6TFTLlpvdv6aSX3F8QSIc.jpg",
+          "width": 4160,
+          "height": 6240,
+          "aspect": 0.666667,
+          "alt": "Miguel 16"
+        },
+        {
+          "type": "image",
+          "src": "/media/JV2YsYxG16RqqbZl0ZM22Mz5wQ.webp",
+          "width": 4160,
+          "height": 6240,
+          "aspect": 0.666667,
+          "alt": "Miguel 20"
+        },
+        {
+          "type": "image",
+          "src": "/media/Lh0OD7kMqwajMOm0ygVBPscRLDg.webp",
+          "width": 3702,
+          "height": 5553,
+          "aspect": 0.666667,
+          "alt": "Miguel 15"
+        },
+        {
+          "type": "image",
+          "src": "/media/rZvsqLbJfD8ZGfML1whmP5pQFk.webp",
+          "width": 2741,
+          "height": 4111,
+          "aspect": 0.666748,
+          "alt": "Miguel 14"
+        },
+        {
+          "type": "image",
+          "src": "/media/mh2HtUTw2K3yhCc95GQmY29mqw.jpg",
+          "width": 3658,
+          "height": 5487,
+          "aspect": 0.666667,
+          "alt": "Miguel 17"
+        },
+        {
+          "type": "image",
+          "src": "/media/cu72HX4tl3aYtgIrXv3wHoFLks.webp",
+          "width": 4160,
+          "height": 6240,
+          "aspect": 0.666667,
+          "alt": "Miguel 18"
+        },
+        {
+          "type": "image",
+          "src": "/media/BvSQkfD3TLxIzAMFKX9xN8FzGk.webp",
+          "width": 3333,
+          "height": 5000,
+          "aspect": 0.6666,
+          "alt": "Miguel 19"
+        }
+      ]
+    },
+    {
+      "id": "riverbeat",
+      "label": "Riverbeat Festival",
+      "slides": [
+        {
+          "type": "image",
+          "src": "/media/QNVmNS4krJtwRcwMITs6Hcmnd0.webp",
+          "width": 4090,
+          "height": 6135,
+          "aspect": 0.666667,
+          "alt": "RB 1"
+        },
+        {
+          "type": "image",
+          "src": "/media/qH7puJ7xNVB1IHLuyAfzSZ9dj0.jpg",
+          "width": 4022,
+          "height": 6033,
+          "aspect": 0.666667,
+          "alt": "681b665bfadf5616d8619c77 AR504897"
+        },
+        {
+          "type": "image",
+          "src": "/media/aEu5dArUrQna5FFBKbd4iNqTk.jpg",
+          "width": 3517,
+          "height": 5273,
+          "aspect": 0.666983,
+          "alt": "681b665bb779de78f66f9af2 AR504609"
+        },
+        {
+          "type": "image",
+          "src": "/media/pNGpa7LbfM1pPOp2kPLU5A1wCl8.webp",
+          "width": 4962,
+          "height": 7443,
+          "aspect": 0.666667,
+          "alt": "681b665a0ed4ab3c9f2878c4 AR504750"
+        },
+        {
+          "type": "image",
+          "src": "/media/CHn57FvgBxZkizoFRSNDqks4.jpg",
+          "width": 5521,
+          "height": 8281,
+          "aspect": 0.666707,
+          "alt": "681b665b67a9e83b09e32e9b AR504196"
+        },
+        {
+          "type": "image",
+          "src": "/media/1HriTjV7ZLgYRlajMlVqVe2bxBE.jpg",
+          "width": 5425,
+          "height": 8138,
+          "aspect": 0.666626,
+          "alt": "681b665ccecf63c7bf65c081 AR506149"
+        },
+        {
+          "type": "image",
+          "src": "/media/6nsbV1mOKCHv9k2LWoN2dETUBs.jpg",
+          "width": 6336,
+          "height": 9504,
+          "aspect": 0.666667,
+          "alt": "681b665c6a4d20820120bb03 AR506160"
+        },
+        {
+          "type": "image",
+          "src": "/media/qSng1wIq5eTC4vMTdNNIhG2MmbI.jpg",
+          "width": 4552,
+          "height": 6828,
+          "aspect": 0.666667,
+          "alt": "681b665c209205fcae62ed67 AR507106"
+        },
+        {
+          "type": "image",
+          "src": "/media/MRBwWPhK1IaZ7pBmMpn9I0XcdGw.jpg",
+          "width": 3914,
+          "height": 5871,
+          "aspect": 0.666667,
+          "alt": "681b665b234df6e0db365133 AR505689"
+        },
+        {
+          "type": "image",
+          "src": "/media/DH2iGG6sclAE054q7BkHyvqOKs.jpg",
+          "width": 2934,
+          "height": 4401,
+          "aspect": 0.666667,
+          "alt": "681b665b31b2da13d9647279 AR505575"
+        },
+        {
+          "type": "image",
+          "src": "/media/UvVMVhrR4DGGztQdKNEjp4PnNg.jpg",
+          "width": 3749,
+          "height": 5624,
+          "aspect": 0.666607,
+          "alt": "681b665bd658fcb7e71fcb91 AR505690"
+        },
+        {
+          "type": "image",
+          "src": "/media/bVtIsKBjtHKl05xpuz54GhwOAyg.webp",
+          "width": 2124,
+          "height": 3124,
+          "aspect": 0.679898,
+          "alt": "681b665e3500101c8ecb31dc AR506662"
+        },
+        {
+          "type": "image",
+          "src": "/media/mHTuxNV5gbBVQFJ0Qcv788J4qjA.jpg",
+          "width": 5901,
+          "height": 8852,
+          "aspect": 0.666629,
+          "alt": "681d1c30841f8107486283f7 AR506880-Edit-2"
+        },
+        {
+          "type": "image",
+          "src": "/media/IBWcSCOSbBLeTjVzQQXqZ8sszU.jpg",
+          "width": 5115,
+          "height": 7672,
+          "aspect": 0.66671,
+          "alt": "681d1cefd6aa22a717816efb AR506976-Enhanced-NR"
+        },
+        {
+          "type": "image",
+          "src": "/media/R3rKC9BnRzjdLhYZ5jwFIQzLI.jpg",
+          "width": 3976,
+          "height": 5964,
+          "aspect": 0.666667,
+          "alt": "681b665be59393e6acf2be20 AR506768"
+        },
+        {
+          "type": "image",
+          "src": "/media/NPKAfQOtPgFZjOj5GTrmNsnFw.jpg",
+          "width": 3407,
+          "height": 5111,
+          "aspect": 0.666601,
+          "alt": "681b665b88ef25f435461feb AR506940"
+        },
+        {
+          "type": "image",
+          "src": "/media/Em6aT3TdawmCCz63HC2QBKIJf38.jpg",
+          "width": 4615,
+          "height": 6922,
+          "aspect": 0.666715,
+          "alt": "681b665b2aab82a1cd1ee5c2 AR506792"
+        },
+        {
+          "type": "image",
+          "src": "/media/3j617wN50oVkbVD6Z2PdunfXzM.jpg",
+          "width": 4449,
+          "height": 6673,
+          "aspect": 0.666717,
+          "alt": "681b665eea7919a9f4bc2948 AR504031"
+        },
+        {
+          "type": "image",
+          "src": "/media/jeyeUEnCJfJl70t0dYs01gAA.jpg",
+          "width": 5117,
+          "height": 7676,
+          "aspect": 0.666623,
+          "alt": "681b665bc7803de1580d11de AR504030"
+        },
+        {
+          "type": "image",
+          "src": "/media/As1XoMjYRxdpaschuwMDi301g.jpg",
+          "width": 4804,
+          "height": 3200,
+          "aspect": 1.50125,
+          "alt": "681b665c6c2ad523c70e49da AR507438"
+        },
+        {
+          "type": "image",
+          "src": "/media/ZSHZEtztM7dJj2fakxu5IY2l7MQ.jpg",
+          "width": 7816,
+          "height": 5211,
+          "aspect": 1.499904,
+          "alt": "681b665ff707bae3199ca30f AR506099"
+        },
+        {
+          "type": "image",
+          "src": "/media/sInAWwtdMOcrEXqMIHP2KK0zg.jpg",
+          "width": 7437,
+          "height": 4958,
+          "aspect": 1.5,
+          "alt": "681b665a3325e181dc23684c AR504436"
+        }
+      ]
+    },
+    {
+      "id": "portraits",
+      "label": "Portraits",
+      "slides": [
+        {
+          "type": "image",
+          "src": "/media/pE3FBjP593SmMs2iiPoTBeBzmI.webp",
+          "width": 4455,
+          "height": 6682,
+          "aspect": 0.666717,
+          "alt": "Eboni 1"
+        },
+        {
+          "type": "image",
+          "src": "/media/ghHaDk2Jq5LsOkIQvjSYI9U9yyw.webp",
+          "width": 4748,
+          "height": 7122,
+          "aspect": 0.666667,
+          "alt": "Eboni 2"
+        },
+        {
+          "type": "image",
+          "src": "/media/I3HxImgEhN9LH9bbWD7YYZyOc.webp",
+          "width": 6001,
+          "height": 9002,
+          "aspect": 0.66663,
+          "alt": "eboni 3"
+        },
+        {
+          "type": "image",
+          "src": "/media/8NVqJ75qxlF92YTnOm0j3PqPvE.webp",
+          "width": 5877,
+          "height": 8816,
+          "aspect": 0.666629,
+          "alt": "eboni 4"
+        },
+        {
+          "type": "image",
+          "src": "/media/iDWTy859hgeXtm8UQpA9NyS4I.jpeg",
+          "width": 6336,
+          "height": 9504,
+          "aspect": 0.666667,
+          "alt": "Grads1 "
+        },
+        {
+          "type": "image",
+          "src": "/media/5MAaiDwQu7XrlVf2PHw3KVgGTgw.jpeg",
+          "width": 6336,
+          "height": 9504,
+          "aspect": 0.666667,
+          "alt": "Grads2"
+        },
+        {
+          "type": "image",
+          "src": "/media/GZoUeAXwX7vCZoEIPj47h6uOHU.jpeg",
+          "width": 6336,
+          "height": 9504,
+          "aspect": 0.666667,
+          "alt": "Grads3"
+        },
+        {
+          "type": "image",
+          "src": "/media/bDgPoUsCuRucK7vRkKTX1M9d0.jpeg",
+          "width": 6336,
+          "height": 9504,
+          "aspect": 0.666667,
+          "alt": "Grads4"
+        },
+        {
+          "type": "image",
+          "src": "/media/hVTmwiX3tV0RlpimxI5c5iYiP8M.jpeg",
+          "width": 6336,
+          "height": 9504,
+          "aspect": 0.666667,
+          "alt": "Grads5"
+        },
+        {
+          "type": "image",
+          "src": "/media/yAJS3TAx0fM3QXMx70Csbs5Orw.jpeg",
+          "width": 6336,
+          "height": 9504,
+          "aspect": 0.666667,
+          "alt": "Grads6"
+        },
+        {
+          "type": "image",
+          "src": "/media/FQf5NiqLvZf2LmgfAKPYCyP1Ho.webp",
+          "width": 1368,
+          "height": 2048,
+          "aspect": 0.667969,
+          "alt": "AY1"
+        },
+        {
+          "type": "image",
+          "src": "/media/otsfZPPC80JhqtfzunebWt6NdI.jpg",
+          "width": 4032,
+          "height": 6048,
+          "aspect": 0.666667,
+          "alt": "BootsBikinis 1"
+        },
+        {
+          "type": "image",
+          "src": "/media/jGPSqOvmLpvjh30EpPhqqavO9Q.jpg",
+          "width": 4032,
+          "height": 6048,
+          "aspect": 0.666667,
+          "alt": "BootsBikinis 2"
+        },
+        {
+          "type": "image",
+          "src": "/media/9lFGoGtJ6VR1jOQY8J17zMErM.jpg",
+          "width": 4032,
+          "height": 6048,
+          "aspect": 0.666667,
+          "alt": "BootsBikinis 3"
+        },
+        {
+          "type": "image",
+          "src": "/media/L2BZovPKfAZDREMbR5d2mHvOz4.jpg",
+          "width": 4032,
+          "height": 6048,
+          "aspect": 0.666667,
+          "alt": "BootsBikinis 4"
+        },
+        {
+          "type": "image",
+          "src": "/media/LGcWkSoDiCpdeVsFoAv3YlVux8.jpg",
+          "width": 4903,
+          "height": 7354,
+          "aspect": 0.666712,
+          "alt": "Raven 10"
+        },
+        {
+          "type": "image",
+          "src": "/media/Zxujs87qr5EceasIAtAimUOYogQ.jpg",
+          "width": 5344,
+          "height": 9504,
+          "aspect": 0.56229,
+          "alt": "Raven 9"
+        },
+        {
+          "type": "image",
+          "src": "/media/wji3JeSedKv8PH8AgESXOS0dOwc.webp",
+          "width": 5078,
+          "height": 7617,
+          "aspect": 0.666667,
+          "alt": "Raven 7"
+        },
+        {
+          "type": "image",
+          "src": "/media/SmrhesIliUlmRCvsNFwVB9IPY.webp",
+          "width": 5576,
+          "height": 8364,
+          "aspect": 0.666667,
+          "alt": "Raven 6"
+        },
+        {
+          "type": "image",
+          "src": "/media/rsiwNZlb0vOU2UcHR1eMxlms1uQ.webp",
+          "width": 3821,
+          "height": 5732,
+          "aspect": 0.666609,
+          "alt": "Raven 8"
+        },
+        {
+          "type": "image",
+          "src": "/media/OMkh1iksYMQmg5559XNRYLSiw.jpg",
+          "width": 6336,
+          "height": 9520,
+          "aspect": 0.665546,
+          "alt": "DJ Wyldflower"
+        },
+        {
+          "type": "image",
+          "src": "/media/jiIiPtdKcMCG2L7DvYtbz9iaU.webp",
+          "width": 480,
+          "height": 721,
+          "aspect": 0.665742,
+          "alt": "ay pose 1"
+        },
+        {
+          "type": "image",
+          "src": "/media/AyIMIVrNfi8Vvq1rr0crEcQwyfw.webp",
+          "width": 480,
+          "height": 721,
+          "aspect": 0.665742,
+          "alt": "egypt aur balloons"
+        },
+        {
+          "type": "image",
+          "src": "/media/KAdKKGkFPjte7t34qYeGTGWsc.webp",
+          "width": 2500,
+          "height": 3743,
+          "aspect": 0.667913,
+          "alt": "ay deser"
+        },
+        {
+          "type": "image",
+          "src": "/media/oZC4zufUeFFlNzqyTtdvoYc4fOc.webp",
+          "width": 1534,
+          "height": 2048,
+          "aspect": 0.749023,
+          "alt": "candace water"
+        },
+        {
+          "type": "image",
+          "src": "/media/wloeoKIiMBlcGQDVzMG2ED0k2n8.webp",
+          "width": 1368,
+          "height": 2048,
+          "aspect": 0.667969,
+          "alt": "mexico drinks"
+        },
+        {
+          "type": "image",
+          "src": "/media/1inbFssIjUrpMcG4K5QcQYHjfwQ.webp",
+          "width": 480,
+          "height": 669,
+          "aspect": 0.717489,
+          "alt": "ay cruise 1"
+        },
+        {
+          "type": "image",
+          "src": "/media/m8tHCvmkq5RlBsIQwXmy5l9GXY.webp",
+          "width": 480,
+          "height": 721,
+          "aspect": 0.665742,
+          "alt": "ay cruie 2"
+        },
+        {
+          "type": "image",
+          "src": "/media/6iWRkNtU76v0Yi79XrmcZAoQ.webp",
+          "width": 1359,
+          "height": 2048,
+          "aspect": 0.663574,
+          "alt": "AY2"
+        },
+        {
+          "type": "image",
+          "src": "/media/cYaO2Rk8j4CIZJqldu7PgR87XR8.webp",
+          "width": 756,
+          "height": 1001,
+          "aspect": 0.755245,
+          "alt": "bryan1"
+        },
+        {
+          "type": "image",
+          "src": "/media/6jDzJX8Qz1qNd3uxOcOJBLXRvo.webp",
+          "width": 1368,
+          "height": 2048,
+          "aspect": 0.667969,
+          "alt": "67ea92d47d7db185a49bb1c7 IMG_4335"
+        },
+        {
+          "type": "image",
+          "src": "/media/sDW7BRsPzu61lhqpzyYE7SGo.webp",
+          "width": 480,
+          "height": 721,
+          "aspect": 0.665742,
+          "alt": "L1011648"
+        },
+        {
+          "type": "image",
+          "src": "/media/KnJonpgjdsc76NSOnc2IdrtmbxQ.jpg",
+          "width": 6336,
+          "height": 9504,
+          "aspect": 0.666667,
+          "alt": "Raven 12"
+        },
+        {
+          "type": "image",
+          "src": "/media/syv89qZoU47QGsOe1tWi13i8E4.jpg",
+          "width": 6336,
+          "height": 9504,
+          "aspect": 0.666667,
+          "alt": "Raven 10"
+        },
+        {
+          "type": "image",
+          "src": "/media/KnJonpgjdsc76NSOnc2IdrtmbxQ.jpg",
+          "width": 6336,
+          "height": 9504,
+          "aspect": 0.666667,
+          "alt": "Raven 12"
+        },
+        {
+          "type": "image",
+          "src": "/media/8W5Dv02UBlkemnbsc5IC3WvuI.jpg",
+          "width": 5677,
+          "height": 8515,
+          "aspect": 0.666706,
+          "alt": "Events 1"
+        },
+        {
+          "type": "image",
+          "src": "/media/MQFWdlB1NsD6R9BOtjcf7AnKuDg.jpg",
+          "width": 5723,
+          "height": 8584,
+          "aspect": 0.666705,
+          "alt": "Events 2"
+        },
+        {
+          "type": "image",
+          "src": "/media/qnTRY3iM3IbIt0D2DAAlhIhN0Y.jpg",
+          "width": 6336,
+          "height": 9504,
+          "aspect": 0.666667,
+          "alt": "Events 3"
+        },
+        {
+          "type": "image",
+          "src": "/media/5VhA9ssAHzksIHvpgqtGpFE443Q.jpg",
+          "width": 5666,
+          "height": 8499,
+          "aspect": 0.666667,
+          "alt": "Events 4"
+        },
+        {
+          "type": "image",
+          "src": "/media/uh7bxYYsjzMxq7GMjfhYcJ7UcuQ.jpg",
+          "width": 6336,
+          "height": 9504,
+          "aspect": 0.666667,
+          "alt": "Events 5"
+        },
+        {
+          "type": "image",
+          "src": "/media/SGlHazJ7iGNLpan09dPLjeoV4k.jpg",
+          "width": 6336,
+          "height": 9504,
+          "aspect": 0.666667,
+          "alt": "Events 6"
+        },
+        {
+          "type": "image",
+          "src": "/media/1dlkoNI2e96dl1f7HM7k7ZIIVg.jpg",
+          "width": 6336,
+          "height": 9504,
+          "aspect": 0.666667,
+          "alt": "Events 7"
+        },
+        {
+          "type": "image",
+          "src": "/media/KrNh6w3nQXmmmoOTU805YUBmbX0.jpg",
+          "width": 6336,
+          "height": 9504,
+          "aspect": 0.666667,
+          "alt": "Events 8"
+        },
+        {
+          "type": "image",
+          "src": "/media/zaAh7mtf6ZyRbkfxseczCZWieA.jpg",
+          "width": 5254,
+          "height": 7881,
+          "aspect": 0.666667,
+          "alt": "Events 9"
+        },
+        {
+          "type": "image",
+          "src": "/media/IrnoxaXooiTNLDxGr7MVOiaxKE.jpg",
+          "width": 5307,
+          "height": 7960,
+          "aspect": 0.666709,
+          "alt": "Events 10"
+        },
+        {
+          "type": "image",
+          "src": "/media/0TQYiF6M03LRtRN6rbpVjxy6s2o.jpg",
+          "width": 6336,
+          "height": 9504,
+          "aspect": 0.666667,
+          "alt": "Events 11"
+        }
+      ]
+    },
+    {
+      "id": "events",
+      "label": "Events",
+      "slides": [
+        {
+          "type": "image",
+          "src": "/media/8W5Dv02UBlkemnbsc5IC3WvuI.jpg",
+          "width": 5677,
+          "height": 8515,
+          "aspect": 0.666706,
+          "alt": "Events 1"
+        },
+        {
+          "type": "image",
+          "src": "/media/MQFWdlB1NsD6R9BOtjcf7AnKuDg.jpg",
+          "width": 5723,
+          "height": 8584,
+          "aspect": 0.666705,
+          "alt": "Events 2"
+        },
+        {
+          "type": "image",
+          "src": "/media/qnTRY3iM3IbIt0D2DAAlhIhN0Y.jpg",
+          "width": 6336,
+          "height": 9504,
+          "aspect": 0.666667,
+          "alt": "Events 3"
+        },
+        {
+          "type": "image",
+          "src": "/media/5VhA9ssAHzksIHvpgqtGpFE443Q.jpg",
+          "width": 5666,
+          "height": 8499,
+          "aspect": 0.666667,
+          "alt": "Events 4"
+        },
+        {
+          "type": "image",
+          "src": "/media/uh7bxYYsjzMxq7GMjfhYcJ7UcuQ.jpg",
+          "width": 6336,
+          "height": 9504,
+          "aspect": 0.666667,
+          "alt": "Events 5"
+        },
+        {
+          "type": "image",
+          "src": "/media/SGlHazJ7iGNLpan09dPLjeoV4k.jpg",
+          "width": 6336,
+          "height": 9504,
+          "aspect": 0.666667,
+          "alt": "Events 6"
+        },
+        {
+          "type": "image",
+          "src": "/media/1dlkoNI2e96dl1f7HM7k7ZIIVg.jpg",
+          "width": 6336,
+          "height": 9504,
+          "aspect": 0.666667,
+          "alt": "Events 7"
+        },
+        {
+          "type": "image",
+          "src": "/media/KrNh6w3nQXmmmoOTU805YUBmbX0.jpg",
+          "width": 6336,
+          "height": 9504,
+          "aspect": 0.666667,
+          "alt": "Events 8"
+        },
+        {
+          "type": "image",
+          "src": "/media/zaAh7mtf6ZyRbkfxseczCZWieA.jpg",
+          "width": 5254,
+          "height": 7881,
+          "aspect": 0.666667,
+          "alt": "Events 9"
+        },
+        {
+          "type": "image",
+          "src": "/media/IrnoxaXooiTNLDxGr7MVOiaxKE.jpg",
+          "width": 5307,
+          "height": 7960,
+          "aspect": 0.666709,
+          "alt": "Events 10"
+        },
+        {
+          "type": "image",
+          "src": "/media/0TQYiF6M03LRtRN6rbpVjxy6s2o.jpg",
+          "width": 6336,
+          "height": 9504,
+          "aspect": 0.666667,
+          "alt": "Events 11"
+        }
+      ]
+    },
+    {
+      "id": "reels",
+      "label": "Reels & Vids",
+      "slides": [
+        {
+          "type": "video",
+          "src": "/media/TZsA5A2pTEEqm5ybMTF47M0keg.mp4",
+          "poster": "/media/E1ionsZW666sH9GijPenZKg8kA.webp",
+          "width": 788,
+          "height": 1166,
+          "aspect": 0.675815,
+          "alt": "Apo Whang"
+        },
+        {
+          "type": "video",
+          "src": "/media/6tSheqziZxDZ7qnnHPZELqCU.mp4",
+          "poster": "/media/vqznM3TgzEMHwxkqW0BPiOXkaPo.webp",
+          "width": 1184,
+          "height": 2002,
+          "aspect": 0.591409,
+          "alt": "Uganda Video"
+        },
+        {
+          "type": "video",
+          "src": "/media/CBs8EmaPtyVe9YAi6BzZ5GnrIw.mp4",
+          "poster": "/media/hu2yZDOW3qCsTMD1myy1YAS4JQ.webp",
+          "width": 1244,
+          "height": 2146,
+          "aspect": 0.579683,
+          "alt": "Vball 2"
+        },
+        {
+          "type": "video",
+          "src": "/media/MrgbkWVMl68I4EGrpBHg5B4p5go.mp4",
+          "poster": "/media/3Q0HqZFXbBu6W2LnngKukIGZKs.webp",
+          "width": 1216,
+          "height": 2032,
+          "aspect": 0.598425,
+          "alt": "Nikon ZR"
+        },
+        {
+          "type": "video",
+          "src": "/media/tbsHP2WuzP4sBKDBmnqRSZ9KvWM.mp4",
+          "poster": "/media/uSujkzoSy9AEY2OZRFxcN3sPL8.webp",
+          "width": 1236,
+          "height": 2216,
+          "aspect": 0.557762,
+          "alt": "LovB VolleyBall"
+        },
+        {
+          "type": "video",
+          "src": "/media/qWLHfGXFPaiEL2zRhhFkMwXKps.mp4",
+          "poster": "/media/KqIoa2WgedCL30gkC2lJ8AMy9U.jpg",
+          "width": 6336,
+          "height": 9504,
+          "aspect": 0.666667,
+          "alt": "Dababy vid 1"
+        },
+        {
+          "type": "video",
+          "src": "/media/xyr0AvuzjydYsckNIyAIZLYIvg.mp4",
+          "poster": "/media/ZrS55hLKr84MJJY5jBQ3UmYnHQ.webp",
+          "width": 1178,
+          "height": 1738,
+          "aspect": 0.677791,
+          "alt": "Dababy vid 2"
+        },
+        {
+          "type": "video",
+          "src": "/media/nOh3y1XsQqHUMCMUmYdPqEUGI.mp4",
+          "poster": "/media/XSm039KhYKEJsb14RvMqZvog.webp",
+          "width": 3107,
+          "height": 4660,
+          "aspect": 0.666738,
+          "alt": "Dababy vid 3"
+        },
+        {
+          "type": "video",
+          "src": "/media/jY91NRjYmxA3GOCdN0gCpXR4I.m4v",
+          "poster": "/media/4TOtdhfxK9LXXtv92M420qHVRY.webp",
+          "width": 1246,
+          "height": 2154,
+          "aspect": 0.578459,
+          "alt": "Lucci Video"
+        },
+        {
+          "type": "vimeo",
+          "src": "https://player.vimeo.com/video/1219567025",
+          "width": 240,
+          "height": 426,
+          "aspect": 0.56338,
+          "alt": "Hike June 14"
+        },
+        {
+          "type": "vimeo",
+          "src": "https://player.vimeo.com/video/1219567497",
+          "width": 240,
+          "height": 426,
+          "aspect": 0.56338,
+          "alt": "sat run aug 15"
+        },
+        {
+          "type": "vimeo",
+          "src": "https://player.vimeo.com/video/1219565893",
+          "width": 240,
+          "height": 426,
+          "aspect": 0.56338,
+          "alt": "Adult Spelling Bee - June 15"
+        },
+        {
+          "type": "vimeo",
+          "src": "https://player.vimeo.com/video/1219566948",
+          "width": 240,
+          "height": 426,
+          "aspect": 0.56338,
+          "alt": "Aunties House - June 22"
+        },
+        {
+          "type": "vimeo",
+          "src": "https://player.vimeo.com/video/1219566947",
+          "width": 240,
+          "height": 426,
+          "aspect": 0.56338,
+          "alt": "Aunties House Jul 19"
+        },
+        {
+          "type": "vimeo",
+          "src": "https://player.vimeo.com/video/1219566946",
+          "width": 240,
+          "height": 426,
+          "aspect": 0.56338,
+          "alt": "Big Kid Energy"
+        },
+        {
+          "type": "vimeo",
+          "src": "https://player.vimeo.com/video/1219567000",
+          "width": 240,
+          "height": 426,
+          "aspect": 0.56338,
+          "alt": "BrunchNMotion-1"
+        },
+        {
+          "type": "vimeo",
+          "src": "https://player.vimeo.com/video/1219566999",
+          "width": 240,
+          "height": 426,
+          "aspect": 0.56338,
+          "alt": "Brunch N Motion Jul 18"
+        },
+        {
+          "type": "vimeo",
+          "src": "https://player.vimeo.com/video/1219566949",
+          "width": 426,
+          "height": 240,
+          "aspect": 1.775,
+          "alt": "Aunties House - For The Nurturers -  May 10 2026"
+        },
+        {
+          "type": "vimeo",
+          "src": "https://player.vimeo.com/video/1219567464",
+          "width": 240,
+          "height": 426,
+          "aspect": 0.56338,
+          "alt": "Line Dance - Jul 30-2"
+        },
+        {
+          "type": "vimeo",
+          "src": "https://player.vimeo.com/video/1219567465",
+          "width": 240,
+          "height": 426,
+          "aspect": 0.56338,
+          "alt": "Kickin it Run June 9"
+        },
+        {
+          "type": "vimeo",
+          "src": "https://player.vimeo.com/video/1219567463",
+          "width": 240,
+          "height": 426,
+          "aspect": 0.56338,
+          "alt": "KickBall-June 27"
+        },
+        {
+          "type": "vimeo",
+          "src": "https://player.vimeo.com/video/1219567499",
+          "width": 240,
+          "height": 426,
+          "aspect": 0.56338,
+          "alt": "Saturday Run Aug 8"
+        },
+        {
+          "type": "vimeo",
+          "src": "https://player.vimeo.com/video/1219567510",
+          "width": 240,
+          "height": 426,
+          "aspect": 0.56338,
+          "alt": "Saturday Run June 6"
+        },
+        {
+          "type": "vimeo",
+          "src": "https://player.vimeo.com/video/1219567517",
+          "width": 240,
+          "height": 426,
+          "aspect": 0.56338,
+          "alt": "Saturday Run June 20"
+        },
+        {
+          "type": "vimeo",
+          "src": "https://player.vimeo.com/video/1219568483",
+          "width": 240,
+          "height": 426,
+          "aspect": 0.56338,
+          "alt": "WineDownWednesday-Jun17"
+        },
+        {
+          "type": "vimeo",
+          "src": "https://player.vimeo.com/video/1219568481",
+          "width": 240,
+          "height": 426,
+          "aspect": 0.56338,
+          "alt": "vball vid"
+        },
+        {
+          "type": "vimeo",
+          "src": "https://player.vimeo.com/video/1219568480",
+          "width": 240,
+          "height": 426,
+          "aspect": 0.56338,
+          "alt": "Take This L Jun 26"
+        },
+        {
+          "type": "vimeo",
+          "src": "https://player.vimeo.com/video/1219568516",
+          "width": 240,
+          "height": 426,
+          "aspect": 0.56338,
+          "alt": "WOATX x KI Jun23 HD"
+        },
+        {
+          "type": "vimeo",
+          "src": "https://player.vimeo.com/video/1219568509",
+          "width": 240,
+          "height": 426,
+          "aspect": 0.56338,
+          "alt": "WOATX - Hike May 17"
+        },
+        {
+          "type": "vimeo",
+          "src": "https://player.vimeo.com/video/1219568524",
+          "width": 240,
+          "height": 426,
+          "aspect": 0.56338,
+          "alt": "WOATX x Kicking It - Aug 18"
+        },
+        {
+          "type": "vimeo",
+          "src": "https://player.vimeo.com/video/1219568482",
+          "width": 240,
+          "height": 426,
+          "aspect": 0.56338,
+          "alt": "TakeThisLFam May22 v2"
+        }
+      ]
+    },
+    {
+      "id": "walesmino",
+      "label": "Wale x Smino",
+      "slides": [
+        {
+          "type": "image",
+          "src": "/media/QVgyFoKtJhuN9b58XHArnRpA9c.jpg",
+          "width": 4013,
+          "height": 6019,
+          "aspect": 0.666722,
+          "alt": "wale 17"
+        },
+        {
+          "type": "image",
+          "src": "/media/owlL3YNgCOmBmBkoDGuBCPexrxs.jpg",
+          "width": 5490,
+          "height": 8235,
+          "aspect": 0.666667,
+          "alt": "smino 11"
+        },
+        {
+          "type": "image",
+          "src": "/media/fEAFVg3JFbRVqvNf9YQ7jopfpA.jpg",
+          "width": 4875,
+          "height": 7313,
+          "aspect": 0.666621,
+          "alt": "smino 10"
+        },
+        {
+          "type": "image",
+          "src": "/media/85nCQkt8bDRzmC8sM1yXf2Dkw0.jpg",
+          "width": 5991,
+          "height": 8987,
+          "aspect": 0.66663,
+          "alt": "smino 12"
+        },
+        {
+          "type": "image",
+          "src": "/media/kr6TTqJk0xxLyV1sWB5t274EMIc.jpg",
+          "width": 2313,
+          "height": 3469,
+          "aspect": 0.666763,
+          "alt": "wale 18"
+        },
+        {
+          "type": "image",
+          "src": "/media/KOVvK8t9mG5VjZ1Qm9t5q4i2jA.jpg",
+          "width": 4160,
+          "height": 6240,
+          "aspect": 0.666667,
+          "alt": "wale 15"
+        },
+        {
+          "type": "image",
+          "src": "/media/gMJa7v9RBaw1sbugmA5EVq0dWc.jpg",
+          "width": 1481,
+          "height": 2221,
+          "aspect": 0.666817,
+          "alt": "wale 1"
+        },
+        {
+          "type": "image",
+          "src": "/media/3oenwGeUkT4Cjw9wIdv1IxkR3RA.jpg",
+          "width": 1707,
+          "height": 2560,
+          "aspect": 0.666797,
+          "alt": "Smino 1"
+        },
+        {
+          "type": "image",
+          "src": "/media/Xuu8flCFndcjmOXFWf2N5ffnM.jpg",
+          "width": 1549,
+          "height": 2323,
+          "aspect": 0.66681,
+          "alt": "Smino 2"
+        },
+        {
+          "type": "image",
+          "src": "/media/e3T4Ou4cbhEBHWhqJrCDBel8cI.jpg",
+          "width": 6019,
+          "height": 9029,
+          "aspect": 0.66663,
+          "alt": "smino 6"
+        },
+        {
+          "type": "image",
+          "src": "/media/BhZhcuIdg2mYr2o6acoJZ3tFziU.jpg",
+          "width": 6336,
+          "height": 9504,
+          "aspect": 0.666667,
+          "alt": "smino 7"
+        },
+        {
+          "type": "image",
+          "src": "/media/dSCtdqgmIVMDGAO1y1imVklUqQ.jpg",
+          "width": 6336,
+          "height": 9504,
+          "aspect": 0.666667,
+          "alt": "smino 8"
+        },
+        {
+          "type": "image",
+          "src": "/media/m2yIxuZcTbqKJfsKfOSBj3osxO0.jpg",
+          "width": 4383,
+          "height": 6574,
+          "aspect": 0.666717,
+          "alt": "smino 9"
+        },
+        {
+          "type": "image",
+          "src": "/media/A8ZaciQSU5zwmPwspqrxlTXB8.jpg",
+          "width": 3270,
+          "height": 4905,
+          "aspect": 0.666667,
+          "alt": "wale 16"
+        },
+        {
+          "type": "image",
+          "src": "/media/JONGs9a69DtygJ3vTtSS0cGY.jpg",
+          "width": 4232,
+          "height": 6348,
+          "aspect": 0.666667,
+          "alt": "wale 13"
+        },
+        {
+          "type": "image",
+          "src": "/media/DDhwmdfIsZeynVQHmOM4RX7Fhc.jpg",
+          "width": 4005,
+          "height": 6007,
+          "aspect": 0.666722,
+          "alt": "wale 14"
+        }
+      ]
+    },
+    {
+      "id": "afroman",
+      "label": "Afroman",
+      "slides": [
+        {
+          "type": "image",
+          "src": "/media/UHzu7o5HgR3ayLN5BaPXB0noApQ.jpg",
+          "width": 3240,
+          "height": 4877,
+          "aspect": 0.664343,
+          "alt": "Afro 1"
+        },
+        {
+          "type": "image",
+          "src": "/media/ufMt1Gi4epqJQj8ZANTFJD19g.jpg",
+          "width": 2691,
+          "height": 3968,
+          "aspect": 0.678175,
+          "alt": "Afro 2"
+        },
+        {
+          "type": "image",
+          "src": "/media/n4hTs5BcYjimcYhpbckuNcdk7UE.jpg",
+          "width": 5984,
+          "height": 9016,
+          "aspect": 0.663709,
+          "alt": "Afro 3"
+        },
+        {
+          "type": "image",
+          "src": "/media/CG0EZka4gGzfoy6CR1W1YiZP2Lw.jpg",
+          "width": 4160,
+          "height": 6240,
+          "aspect": 0.666667,
+          "alt": "Afro 4"
+        }
+      ]
+    },
+    {
+      "id": "juvenile",
+      "label": "Juvenile",
+      "slides": [
+        {
+          "type": "image",
+          "src": "/media/rDpvsOJyQG66PHGyI5oe1F7is.jpg",
+          "width": 2826,
+          "height": 4239,
+          "aspect": 0.666667,
+          "alt": "Juvie 1"
+        },
+        {
+          "type": "image",
+          "src": "/media/bnPtAgZjHeqITdk9seSbFNLmyo.jpg",
+          "width": 4699,
+          "height": 7049,
+          "aspect": 0.666619,
+          "alt": "Juvie 6"
+        },
+        {
+          "type": "image",
+          "src": "/media/LDJgRQioRYmniLlHKe9XXJzcs14.webp",
+          "width": 2041,
+          "height": 3061,
+          "aspect": 0.666776,
+          "alt": "Juvie 9"
+        },
+        {
+          "type": "image",
+          "src": "/media/l7EHrvDf7tuBpUrdjfOwfIkVGM.webp",
+          "width": 3460,
+          "height": 4481,
+          "aspect": 0.772149,
+          "alt": "Juvie 3"
+        },
+        {
+          "type": "image",
+          "src": "/media/dPj78Ub3LXvBMWQ4lMoKjuH2ROA.webp",
+          "width": 1704,
+          "height": 2556,
+          "aspect": 0.666667,
+          "alt": "Juvie 2"
+        },
+        {
+          "type": "image",
+          "src": "/media/XRKkfXWZr8IRx0UTz612EorTrCo.jpg",
+          "width": 8934,
+          "height": 5956,
+          "aspect": 1.5,
+          "alt": "Juvie 12"
+        },
+        {
+          "type": "image",
+          "src": "/media/nQpYOvTnBGCKO3fQINyZaUdAKAI.jpg",
+          "width": 5290,
+          "height": 3527,
+          "aspect": 1.499858,
+          "alt": "Juvie 13"
+        },
+        {
+          "type": "image",
+          "src": "/media/roW4gITJ2JE6YqZeAKifcSxo.webp",
+          "width": 2060,
+          "height": 3090,
+          "aspect": 0.666667,
+          "alt": "Juvie 7"
+        },
+        {
+          "type": "image",
+          "src": "/media/a7so8EzPtGpJ5C2aerTsp52m3R8.jpg",
+          "width": 4364,
+          "height": 6546,
+          "aspect": 0.666667,
+          "alt": "Juvie 8"
+        },
+        {
+          "type": "image",
+          "src": "/media/ivZSnep34Y3Ct8HZ0MVC1MnGNGE.webp",
+          "width": 2843,
+          "height": 4264,
+          "aspect": 0.666745,
+          "alt": "Juvie 4"
+        },
+        {
+          "type": "image",
+          "src": "/media/qFzQSgBBAGuo0D2q5lVrryfHLe8.jpg",
+          "width": 6336,
+          "height": 9504,
+          "aspect": 0.666667,
+          "alt": "Juvie 5"
+        },
+        {
+          "type": "image",
+          "src": "/media/1GQZr8bUfxdB4jVqxmlXZAVBnA.jpg",
+          "width": 3419,
+          "height": 5129,
+          "aspect": 0.666602,
+          "alt": "Juvie 10"
+        }
+      ]
+    },
+    {
+      "id": "tswims",
+      "label": "Teddy Swims",
+      "slides": [
+        {
+          "type": "image",
+          "src": "/media/l028vBoLkVFf53Unq9BuUd8ZW4.webp",
+          "width": 1657,
+          "height": 2485,
+          "aspect": 0.666801,
+          "alt": "TSwims1"
+        },
+        {
+          "type": "image",
+          "src": "/media/wMpdUB6EtM9r0W3x7XgK8El96E.webp",
+          "width": 2697,
+          "height": 4046,
+          "aspect": 0.666584,
+          "alt": "TSwims2"
+        },
+        {
+          "type": "image",
+          "src": "/media/c8gPNS3W3sM7Mm0V7bmEv6f1Agg.webp",
+          "width": 2276,
+          "height": 3414,
+          "aspect": 0.666667,
+          "alt": "TSwims3"
+        },
+        {
+          "type": "image",
+          "src": "/media/9mQUiYfZDrSydLCjaFAG2Lrc3Ck.webp",
+          "width": 3067,
+          "height": 4600,
+          "aspect": 0.666739,
+          "alt": "TSwims5"
+        },
+        {
+          "type": "image",
+          "src": "/media/udNvCTuJzlTLnaitvrgO17z3jLs.jpg",
+          "width": 4091,
+          "height": 6136,
+          "aspect": 0.666721,
+          "alt": "TSwims4"
+        },
+        {
+          "type": "image",
+          "src": "/media/cbG2m4yL9GPukoWxsIkmdsDFCQ.jpg",
+          "width": 5695,
+          "height": 8543,
+          "aspect": 0.666628,
+          "alt": "TSwims11"
+        },
+        {
+          "type": "image",
+          "src": "/media/jostXjHpfcvkW62umzAOVcf04dg.jpg",
+          "width": 5216,
+          "height": 7824,
+          "aspect": 0.666667,
+          "alt": "TSwims13"
+        },
+        {
+          "type": "image",
+          "src": "/media/J8P2CR4gh3zNGDruiiVaox49dI.webp",
+          "width": 5679,
+          "height": 7572,
+          "aspect": 0.75,
+          "alt": "TSwims12"
+        },
+        {
+          "type": "image",
+          "src": "/media/AqHjKAICu57dgYOv0HZnHWnViU.jpg",
+          "width": 4672,
+          "height": 7008,
+          "aspect": 0.666667,
+          "alt": "TSwims6"
+        },
+        {
+          "type": "image",
+          "src": "/media/XvhaDObzJZp1euQtWzo6dPvUGA.webp",
+          "width": 1588,
+          "height": 2382,
+          "aspect": 0.666667,
+          "alt": "TSwims7"
+        },
+        {
+          "type": "image",
+          "src": "/media/IvGnU2JAB4XKFrDFDZyAH4eOBdw.jpg",
+          "width": 4570,
+          "height": 3047,
+          "aspect": 1.499836,
+          "alt": "TSwims8"
+        },
+        {
+          "type": "image",
+          "src": "/media/gi0N5QiGby2snUNKpJsKfYZs.jpg",
+          "width": 4640,
+          "height": 6960,
+          "aspect": 0.666667,
+          "alt": "TSwims9"
+        },
+        {
+          "type": "image",
+          "src": "/media/QbAfONV8IgmnP37AJ0ULuGiYoc.webp",
+          "width": 4021,
+          "height": 6032,
+          "aspect": 0.666611,
+          "alt": "TSwims10"
+        }
+      ]
+    },
+    {
+      "id": "lucci",
+      "label": "YFNLucci",
+      "slides": [
+        {
+          "type": "image",
+          "src": "/media/p5pY02AxWgHUv41Jf5bQjbXvG8.jpg",
+          "width": 5994,
+          "height": 8991,
+          "aspect": 0.666667,
+          "alt": "YFNLucci 1"
+        },
+        {
+          "type": "image",
+          "src": "/media/JgHDFPQH7NEVy0xMYMEcsavaOA.jpg",
+          "width": 9504,
+          "height": 6336,
+          "aspect": 1.5,
+          "alt": "YFNLucci 11"
+        },
+        {
+          "type": "image",
+          "src": "/media/SGAGGlR75trnAiEif1szrqyFZd8.jpg",
+          "width": 6336,
+          "height": 9504,
+          "aspect": 0.666667,
+          "alt": "YFNLucci 3"
+        },
+        {
+          "type": "image",
+          "src": "/media/jcBxVLMy4mLT92Ylg8yEUtVOeEg.jpg",
+          "width": 4539,
+          "height": 6809,
+          "aspect": 0.666618,
+          "alt": "YFNLucci 8"
+        },
+        {
+          "type": "image",
+          "src": "/media/iGXzC5W1e2gNTPWnTPS4rJciIg.webp",
+          "width": 4974,
+          "height": 7461,
+          "aspect": 0.666667,
+          "alt": "YFNLucci 10"
+        },
+        {
+          "type": "image",
+          "src": "/media/unmHMtpswQHJVuyQ9FXpEW32nY.webp",
+          "width": 6336,
+          "height": 9504,
+          "aspect": 0.666667,
+          "alt": "YFNLucci 12"
+        },
+        {
+          "type": "video",
+          "src": "/media/jY91NRjYmxA3GOCdN0gCpXR4I.m4v",
+          "poster": "/media/4TOtdhfxK9LXXtv92M420qHVRY.webp",
+          "width": 1246,
+          "height": 2154,
+          "aspect": 0.578459,
+          "alt": "Lucci Video"
+        }
+      ]
+    },
+    {
+      "id": "dababy",
+      "label": "DaBaby",
+      "slides": [
+        {
+          "type": "image",
+          "src": "/media/rVwtq8RLj7pBCMG50GS0aeD1bUM.jpg",
+          "width": 5129,
+          "height": 7693,
+          "aspect": 0.66671,
+          "alt": "Dababy 3"
+        },
+        {
+          "type": "image",
+          "src": "/media/HArTaDX1dwUW8pRc2grCYaitSQ.jpg",
+          "width": 5544,
+          "height": 8316,
+          "aspect": 0.666667,
+          "alt": "Dababy 1"
+        },
+        {
+          "type": "image",
+          "src": "/media/Ui3Twf0NN81D9jt7x7yCgDcRVw.webp",
+          "width": 4395,
+          "height": 6592,
+          "aspect": 0.666717,
+          "alt": "Dababy 10"
+        },
+        {
+          "type": "image",
+          "src": "/media/FNGXkjDmmIqkc36gR8Dw6sCGyfc.jpg",
+          "width": 3592,
+          "height": 5409,
+          "aspect": 0.664078,
+          "alt": "Dababy 6"
+        },
+        {
+          "type": "image",
+          "src": "/media/0bi15u84EquU7PJY4N0I3x9JP2A.webp",
+          "width": 4707,
+          "height": 7061,
+          "aspect": 0.666619,
+          "alt": "Dababy 7"
+        },
+        {
+          "type": "image",
+          "src": "/media/oFjca9lnDKGkubJb5nc4TGmXWb0.webp",
+          "width": 5265,
+          "height": 7897,
+          "aspect": 0.666709,
+          "alt": "Dababy 8"
+        },
+        {
+          "type": "image",
+          "src": "/media/0buwpXFOKsRNoIMFk1Tr22WnaU.jpg",
+          "width": 6336,
+          "height": 9504,
+          "aspect": 0.666667,
+          "alt": "Dababy 9"
+        },
+        {
+          "type": "image",
+          "src": "/media/zVb7zJjVNIKZJUTy7QwhTThcn4c.jpg",
+          "width": 6336,
+          "height": 9504,
+          "aspect": 0.666667,
+          "alt": "Dababy 11"
+        },
+        {
+          "type": "image",
+          "src": "/media/ApLyIbxmTxOFTMbEBce2tbSZTak.webp",
+          "width": 1339,
+          "height": 2008,
+          "aspect": 0.666833,
+          "alt": "Dababy 13"
+        },
+        {
+          "type": "image",
+          "src": "/media/XSm039KhYKEJsb14RvMqZvog.webp",
+          "width": 3107,
+          "height": 4660,
+          "aspect": 0.666738,
+          "alt": "Dababy 14"
+        },
+        {
+          "type": "image",
+          "src": "/media/PrVJW8zbJzLvCdOksfAagZLnI.webp",
+          "width": 2763,
+          "height": 4145,
+          "aspect": 0.666586,
+          "alt": "Dababy 15"
+        },
+        {
+          "type": "image",
+          "src": "/media/WbJ35yQcpwsHFhYvmGyCu4Wk.webp",
+          "width": 2854,
+          "height": 4281,
+          "aspect": 0.666667,
+          "alt": "Dababy 16"
+        },
+        {
+          "type": "image",
+          "src": "/media/vzlu6YICK1hS5Vgn7watjGCTWY.jpg",
+          "width": 3443,
+          "height": 5164,
+          "aspect": 0.666731,
+          "alt": "Dababy 17"
+        },
+        {
+          "type": "image",
+          "src": "/media/ulwhfVpDL38AzeKxUtTwVtTTM.jpg",
+          "width": 5037,
+          "height": 7555,
+          "aspect": 0.666711,
+          "alt": "Dababy 18"
+        },
+        {
+          "type": "image",
+          "src": "/media/DbXiS2ldYykvdjwrpf63GqoxAI.webp",
+          "width": 3426,
+          "height": 5139,
+          "aspect": 0.666667,
+          "alt": "Dababy 20"
+        },
+        {
+          "type": "image",
+          "src": "/media/7Bstv7sFkdXdBmQECHJ1ALlH1c.jpg",
+          "width": 3747,
+          "height": 5621,
+          "aspect": 0.666607,
+          "alt": "Dababy 21"
+        },
+        {
+          "type": "image",
+          "src": "/media/S6pC03qNtKMXdOTNvBv94dQTjL4.jpg",
+          "width": 5757,
+          "height": 8636,
+          "aspect": 0.666628,
+          "alt": "Dababy 22"
+        },
+        {
+          "type": "video",
+          "src": "/media/qWLHfGXFPaiEL2zRhhFkMwXKps.mp4",
+          "poster": "/media/KqIoa2WgedCL30gkC2lJ8AMy9U.jpg",
+          "width": 6336,
+          "height": 9504,
+          "aspect": 0.666667,
+          "alt": "Dababy vid 1"
+        },
+        {
+          "type": "video",
+          "src": "/media/xyr0AvuzjydYsckNIyAIZLYIvg.mp4",
+          "poster": "/media/ZrS55hLKr84MJJY5jBQ3UmYnHQ.webp",
+          "width": 1178,
+          "height": 1738,
+          "aspect": 0.677791,
+          "alt": "Dababy vid 2"
+        },
+        {
+          "type": "video",
+          "src": "/media/nOh3y1XsQqHUMCMUmYdPqEUGI.mp4",
+          "poster": "/media/XSm039KhYKEJsb14RvMqZvog.webp",
+          "width": 3107,
+          "height": 4660,
+          "aspect": 0.666738,
+          "alt": "Dababy vid 3"
+        }
+      ]
+    },
+    {
+      "id": "mario",
+      "label": "Mario",
+      "slides": [
+        {
+          "type": "image",
+          "src": "/media/YR2y8PbTIYp4UT0WgI6RAPkQEqc.jpg",
+          "width": 4160,
+          "height": 6240,
+          "aspect": 0.666667,
+          "alt": "Mario1"
+        },
+        {
+          "type": "image",
+          "src": "/media/WPIOzUZRxdUPgVtbsHtdhZqs4vA.webp",
+          "width": 1421,
+          "height": 2131,
+          "aspect": 0.666823,
+          "alt": "Mario2"
+        },
+        {
+          "type": "image",
+          "src": "/media/MCFjQYvaYV5flLV9tSsUM0dISA.jpg",
+          "width": 3351,
+          "height": 5021,
+          "aspect": 0.667397,
+          "alt": "Mario3"
+        },
+        {
+          "type": "image",
+          "src": "/media/QHt2WIMgSaujCQJc8YMxImA5Cg.jpg",
+          "width": 4160,
+          "height": 6240,
+          "aspect": 0.666667,
+          "alt": "Mario4"
+        },
+        {
+          "type": "image",
+          "src": "/media/drEogvpiTJ7eWE4PL2WB3Ki0JDY.webp",
+          "width": 4160,
+          "height": 6240,
+          "aspect": 0.666667,
+          "alt": "Mario5"
+        },
+        {
+          "type": "image",
+          "src": "/media/j4mKrXHQRxJ3QTO3e26bv1HnRkU.jpg",
+          "width": 3655,
+          "height": 5482,
+          "aspect": 0.666727,
+          "alt": "Mario6"
+        },
+        {
+          "type": "image",
+          "src": "/media/7xosKb8lqV9XmBPNOf4lSL1H4.jpg",
+          "width": 5974,
+          "height": 8961,
+          "aspect": 0.666667,
+          "alt": "Mario7"
+        },
+        {
+          "type": "image",
+          "src": "/media/WbSV5YyKSYSGyY7ksHAgnlzlTlk.jpg",
+          "width": 5846,
+          "height": 8769,
+          "aspect": 0.666667,
+          "alt": "Mario9"
+        },
+        {
+          "type": "image",
+          "src": "/media/44qxBUqrNuMSaOhGw5BKMTBNlkw.jpg",
+          "width": 4560,
+          "height": 6840,
+          "aspect": 0.666667,
+          "alt": "Mario10"
+        }
+      ]
+    },
+    {
+      "id": "deebabynhcmurda",
+      "label": "DeeBaby & NHC Murda",
+      "slides": [
+        {
+          "type": "image",
+          "src": "/media/xJeEvZXlvBp3tEqu3MQb0MWzSE.jpg",
+          "width": 4759,
+          "height": 7139,
+          "aspect": 0.66662,
+          "alt": "NHC Murda DeeBaby 1"
+        },
+        {
+          "type": "image",
+          "src": "/media/NaNOOc6XDIAM4bLir0vfTNu3NA.jpg",
+          "width": 5268,
+          "height": 7902,
+          "aspect": 0.666667,
+          "alt": "NHC Murda DeeBaby 2"
+        },
+        {
+          "type": "image",
+          "src": "/media/fmi1oqAY8yUwuHgQ3aW9tA8FV5k.webp",
+          "width": 3221,
+          "height": 4831,
+          "aspect": 0.666736,
+          "alt": "NHC Murda DeeBaby 3"
+        },
+        {
+          "type": "image",
+          "src": "/media/XAyhK8e50F0dNdIjky3Pnx2muU.jpg",
+          "width": 4208,
+          "height": 6312,
+          "aspect": 0.666667,
+          "alt": "NHC Murda DeeBaby 4"
+        },
+        {
+          "type": "image",
+          "src": "/media/AYw2SK3ZX2vq0RagUOYryVLLkLs.webp",
+          "width": 4945,
+          "height": 7417,
+          "aspect": 0.666712,
+          "alt": "NHC Murda DeeBaby 5"
+        },
+        {
+          "type": "image",
+          "src": "/media/64TXjoU1VSG4UvL7no4KAkR0Omk.webp",
+          "width": 4163,
+          "height": 6244,
+          "aspect": 0.66672,
+          "alt": "NHC Murda DeeBaby 6"
+        },
+        {
+          "type": "image",
+          "src": "/media/8Fs5Qz5zaI4A2uROO075b1lcy0.webp",
+          "width": 6336,
+          "height": 9504,
+          "aspect": 0.666667,
+          "alt": "NHC Murda DeeBaby 7"
+        },
+        {
+          "type": "image",
+          "src": "/media/xt9itYDvZzHjarBIvRoDC17AWc.jpg",
+          "width": 5248,
+          "height": 7872,
+          "aspect": 0.666667,
+          "alt": "NHC Murda DeeBaby 8"
+        }
+      ]
+    },
+    {
+      "id": "giveon",
+      "label": "Giveon",
+      "slides": [
+        {
+          "type": "image",
+          "src": "/media/9p1uz7d99KZi4IZpnMEiv0aCEE.webp",
+          "width": 2523,
+          "height": 3684,
+          "aspect": 0.684853,
+          "alt": "Giveon1"
+        },
+        {
+          "type": "image",
+          "src": "/media/HjXeXP6VRVP4MKVqXcVJdNo.jpg",
+          "width": 3338,
+          "height": 4970,
+          "aspect": 0.67163,
+          "alt": "Giveon2"
+        },
+        {
+          "type": "image",
+          "src": "/media/3BzBjzP2QYwPL5ilBX9w7ImyZg.webp",
+          "width": 3648,
+          "height": 5752,
+          "aspect": 0.634214,
+          "alt": "Giveon3"
+        },
+        {
+          "type": "image",
+          "src": "/media/FMjIrJwVB6raBUEVIUR0PVKwcc.jpg",
+          "width": 4853,
+          "height": 5885,
+          "aspect": 0.824639,
+          "alt": "Giveon4"
+        }
+      ]
+    },
+    {
+      "id": "sabrina",
+      "label": "Sabrina Claudio",
+      "slides": [
+        {
+          "type": "image",
+          "src": "/media/Yn8xtpyqn8Lb0k0ytPnYnajw.jpg",
+          "width": 2935,
+          "height": 4403,
+          "aspect": 0.666591,
+          "alt": "Sabrina Claudio 3"
+        },
+        {
+          "type": "image",
+          "src": "/media/IU39zn4StshgYf0HNaD418rolo.jpg",
+          "width": 5604,
+          "height": 8406,
+          "aspect": 0.666667,
+          "alt": "Sabrina Claudio 8"
+        },
+        {
+          "type": "image",
+          "src": "/media/34wPyLMCn1SMeNbussEGszvEvI.webp",
+          "width": 2327,
+          "height": 3491,
+          "aspect": 0.666571,
+          "alt": "Sabrina Claudio 6"
+        },
+        {
+          "type": "image",
+          "src": "/media/Uthv68vhBbAp1eVEBRcJquIBJtg.jpg",
+          "width": 6336,
+          "height": 9504,
+          "aspect": 0.666667,
+          "alt": "Sabrina Claudio 1"
+        },
+        {
+          "type": "image",
+          "src": "/media/1YfUaiNfzvnHqDZZBSmWCJfxYo.webp",
+          "width": 3199,
+          "height": 4799,
+          "aspect": 0.666597,
+          "alt": "Sabrina Claudio 2"
+        },
+        {
+          "type": "image",
+          "src": "/media/xOOHcmxScvPh0gBoiOLGSjLw6k.webp",
+          "width": 2793,
+          "height": 4190,
+          "aspect": 0.666587,
+          "alt": "Sabrina Claudio 5"
+        },
+        {
+          "type": "image",
+          "src": "/media/1Ubo8lJsyFemTa4ioVnbcsito4M.webp",
+          "width": 4041,
+          "height": 6062,
+          "aspect": 0.666612,
+          "alt": "Sabrina Claudio 10"
+        },
+        {
+          "type": "image",
+          "src": "/media/yKyEgcBtP9GuqJbKrov2CrjYQ.webp",
+          "width": 2161,
+          "height": 3242,
+          "aspect": 0.666564,
+          "alt": "Sabrina Claudio 11"
+        },
+        {
+          "type": "image",
+          "src": "/media/8bAw7EwabCp9T3ofGkrvtMtVESM.webp",
+          "width": 2935,
+          "height": 4403,
+          "aspect": 0.666591,
+          "alt": "Sabrina Claudio 12"
+        },
+        {
+          "type": "image",
+          "src": "/media/1zWqGhxzfaEZbstcCnCBc9ISiPU.webp",
+          "width": 1920,
+          "height": 2880,
+          "aspect": 0.666667,
+          "alt": "Sabrina Claudio 13"
+        },
+        {
+          "type": "image",
+          "src": "/media/PKQItYxmWkdDJwYSiBN0aBkINp4.webp",
+          "width": 2653,
+          "height": 3980,
+          "aspect": 0.666583,
+          "alt": "Sabrina Claudio 14"
+        },
+        {
+          "type": "image",
+          "src": "/media/LSiDgGz5JYAiKH8QQQFj0PGzQ.webp",
+          "width": 3326,
+          "height": 4989,
+          "aspect": 0.666667,
+          "alt": "Sabrina Claudio 15"
+        }
+      ]
+    },
+    {
+      "id": "winterfestfriends",
+      "label": "Winter Fest",
+      "slides": [
+        {
+          "type": "image",
+          "src": "/media/3TVAkb8FFmafOR1nFcHbUHTwmM.webp",
+          "width": 4193,
+          "height": 6290,
+          "aspect": 0.666614,
+          "alt": "Winter Fest Friends 1"
+        },
+        {
+          "type": "image",
+          "src": "/media/d0vtgP1P4eNPLAcLOs5Fv8.webp",
+          "width": 3908,
+          "height": 5862,
+          "aspect": 0.666667,
+          "alt": "Winter Fest Friends 2"
+        },
+        {
+          "type": "video",
+          "src": "/media/olBetUsrATH2zq2AgHTqVawwCxk.m4v",
+          "poster": "/media/v0eF86OWcbYyI2XSSrwqt1E6k8.webp",
+          "width": 1176,
+          "height": 1930,
+          "aspect": 0.609326,
+          "alt": "Peezy Video"
+        },
+        {
+          "type": "image",
+          "src": "/media/dKJSX0NJqvKprzvKyHXVWcIeBo.webp",
+          "width": 3746,
+          "height": 5619,
+          "aspect": 0.666667,
+          "alt": "Winter Fest Friends 3"
+        },
+        {
+          "type": "image",
+          "src": "/media/ik1fS447gMsw5usZwE0brJ6Rg.webp",
+          "width": 4615,
+          "height": 6922,
+          "aspect": 0.666715,
+          "alt": "Winter Fest Friends 4"
+        },
+        {
+          "type": "image",
+          "src": "/media/5cYoH3JmAcn18g0ZXymfj4mjN4w.webp",
+          "width": 6336,
+          "height": 9504,
+          "aspect": 0.666667,
+          "alt": "Winter Fest Friends 5"
+        },
+        {
+          "type": "image",
+          "src": "/media/VFWAISwDx8PlkBaKiJgLFWSzVM.webp",
+          "width": 4979,
+          "height": 7469,
+          "aspect": 0.666622,
+          "alt": "Winter Fest Friends 6"
+        },
+        {
+          "type": "image",
+          "src": "/media/DEqtLf7X0JLjoCyziqOu7BE7GK4.webp",
+          "width": 6336,
+          "height": 9504,
+          "aspect": 0.666667,
+          "alt": "Winter Fest Friends 7"
+        },
+        {
+          "type": "image",
+          "src": "/media/h36SuA3VZspEXj1vM1ldZaOhh8.webp",
+          "width": 2939,
+          "height": 4408,
+          "aspect": 0.666742,
+          "alt": "Winter Fest Friends 8"
+        },
+        {
+          "type": "image",
+          "src": "/media/lSyvBGwEPXIZ36ACSBIDI3qg.jpg",
+          "width": 3647,
+          "height": 5470,
+          "aspect": 0.666728,
+          "alt": "Winter Fest Friends 9"
+        }
+      ]
+    },
+    {
+      "id": "kwn",
+      "label": "KWN",
+      "slides": [
+        {
+          "type": "image",
+          "src": "/media/5SYBhOpxnQiat3P88HokkgDRnQ.jpg",
+          "width": 5161,
+          "height": 7742,
+          "aspect": 0.666624,
+          "alt": "kwn 7"
+        },
+        {
+          "type": "image",
+          "src": "/media/05uKkExM7BQkMTYh9pyke90YME.jpg",
+          "width": 4777,
+          "height": 7165,
+          "aspect": 0.666713,
+          "alt": "kwn 5"
+        },
+        {
+          "type": "image",
+          "src": "/media/Bc5WjqchKJ3EJQqviRGuTkR8.webp",
+          "width": 3769,
+          "height": 5653,
+          "aspect": 0.666726,
+          "alt": "kwn 6"
+        },
+        {
+          "type": "image",
+          "src": "/media/COVVTQtcGRt9ycpop2BRQhGIGBY.jpg",
+          "width": 4562,
+          "height": 6843,
+          "aspect": 0.666667,
+          "alt": "kwn 8"
+        },
+        {
+          "type": "image",
+          "src": "/media/eJdBxYAKGknoAEmWS6uUoVAOV0Y.webp",
+          "width": 3745,
+          "height": 5617,
+          "aspect": 0.666726,
+          "alt": "kwn 9"
+        },
+        {
+          "type": "image",
+          "src": "/media/EGEp09CCxXg2jrBNMAQQ29qSrNY.webp",
+          "width": 5127,
+          "height": 7691,
+          "aspect": 0.666623,
+          "alt": "kwn 10"
+        },
+        {
+          "type": "image",
+          "src": "/media/pUHnJ4JXVFxOyAP69lFK7YvILg.webp",
+          "width": 8998,
+          "height": 13497,
+          "aspect": 0.666667,
+          "alt": "kwn 12"
+        },
+        {
+          "type": "image",
+          "src": "/media/3Jj8mnI0ByfN9D0FDAlmmTNHqE.jpg",
+          "width": 6336,
+          "height": 9504,
+          "aspect": 0.666667,
+          "alt": "kwn 3"
+        },
+        {
+          "type": "image",
+          "src": "/media/Qm5D0C8fvHNXnTtPLm5kbQjhdk.jpg",
+          "width": 5071,
+          "height": 7606,
+          "aspect": 0.66671,
+          "alt": "kwn 2"
+        },
+        {
+          "type": "image",
+          "src": "/media/9FPRy8BhEpat7XjkQLxViW47X2w.webp",
+          "width": 4401,
+          "height": 6602,
+          "aspect": 0.666616,
+          "alt": "kwn 13"
+        },
+        {
+          "type": "image",
+          "src": "/media/T2SykWi2M9jWwlNEvHA3SDwSQ.webp",
+          "width": 5519,
+          "height": 8278,
+          "aspect": 0.666707,
+          "alt": "kwn 14"
+        },
+        {
+          "type": "image",
+          "src": "/media/UAGJfJzArWS9Et8DWWqKOmJ3WUg.webp",
+          "width": 5261,
+          "height": 7892,
+          "aspect": 0.666624,
+          "alt": "kwn 15"
+        },
+        {
+          "type": "image",
+          "src": "/media/ZUlK0wZ0T6emPKE56rhBoxmPZtE.webp",
+          "width": 4927,
+          "height": 7391,
+          "aspect": 0.666622,
+          "alt": "kwn 16"
+        },
+        {
+          "type": "image",
+          "src": "/media/n2orj6DB7CmyWivE6bk86ZwegFI.jpg",
+          "width": 4439,
+          "height": 6659,
+          "aspect": 0.666617,
+          "alt": "kwn 17"
+        },
+        {
+          "type": "image",
+          "src": "/media/Parri6tYXaehFBaImQYxj04ZSY.webp",
+          "width": 4924,
+          "height": 7386,
+          "aspect": 0.666667,
+          "alt": "kwn 18"
+        },
+        {
+          "type": "image",
+          "src": "/media/MjhdVlgyhntPbqgk7x72i7jFBk.webp",
+          "width": 3356,
+          "height": 5034,
+          "aspect": 0.666667,
+          "alt": "kwn 19"
+        }
+      ]
+    },
+    {
+      "id": "coco",
+      "label": "Coco Jones",
+      "slides": [
+        {
+          "type": "image",
+          "src": "/media/muimhLmi4ZUDpM4ujBZwntcaHA.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR509241"
+        },
+        {
+          "type": "image",
+          "src": "/media/id4daoWy8phSYAKtmYfFZ6uG9uo.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR509236"
+        },
+        {
+          "type": "image",
+          "src": "/media/nxV2BGlFeFhCUICXGNkyntTfmw0.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR509359"
+        },
+        {
+          "type": "image",
+          "src": "/media/Kdpt48ar0A4bevNsxZNpMBB5MIw.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR509371"
+        },
+        {
+          "type": "image",
+          "src": "/media/nFATv0K3I68o5ZVlqXWxEuXnw.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR509293-Enhanced-NR"
+        },
+        {
+          "type": "image",
+          "src": "/media/eA42af84RF5VUZgQGHVzPAGzWkw.webp",
+          "width": 480,
+          "height": 725,
+          "aspect": 0.662069,
+          "alt": "AR509471-Enhanced-NR"
+        },
+        {
+          "type": "image",
+          "src": "/media/R8a6Lczg6YHM6xqnWM3dhbmKw.webp",
+          "width": 480,
+          "height": 270,
+          "aspect": 1.777778,
+          "alt": "AR509225"
+        },
+        {
+          "type": "image",
+          "src": "/media/XlKhwXlHgdVBrXWjUAmPTyJBZ0.webp",
+          "width": 480,
+          "height": 320,
+          "aspect": 1.5,
+          "alt": "AR509450-Enhanced-NR"
+        },
+        {
+          "type": "image",
+          "src": "/media/rHSgot0fBqhOg1IPK6fYJDCp0.webp",
+          "width": 480,
+          "height": 270,
+          "aspect": 1.777778,
+          "alt": "AR509518"
+        },
+        {
+          "type": "image",
+          "src": "/media/dRwPJC96fNgZuTFRjoBCzaQURA.webp",
+          "width": 480,
+          "height": 320,
+          "aspect": 1.5,
+          "alt": "AR509501-Enhanced-NR"
+        }
+      ]
+    },
+    {
+      "id": "wutang-clan",
+      "label": "WuTang Clan",
+      "slides": [
+        {
+          "type": "image",
+          "src": "/media/z6EeApupzvhNmyV4ygLtDKJSpM.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR501272"
+        },
+        {
+          "type": "image",
+          "src": "/media/VxB6FaJuYqLdPR3BJWNFPOzoCHc.webp",
+          "width": 480,
+          "height": 575,
+          "aspect": 0.834783,
+          "alt": "AR500274"
+        },
+        {
+          "type": "image",
+          "src": "/media/acFIcMrY6dY9rrC5iqomQ3xhBg.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR500445"
+        },
+        {
+          "type": "image",
+          "src": "/media/8LiMNYbM4Qk2UvEmhDyiafQUs.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR500985"
+        },
+        {
+          "type": "image",
+          "src": "/media/6LaWvhsgXs1cM5Tb6PacpgoVc.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR500983"
+        },
+        {
+          "type": "image",
+          "src": "/media/Azdtsk7Id4tcHHAkITSMEyOBey0.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR500918"
+        },
+        {
+          "type": "image",
+          "src": "/media/kXw95qNnoVIZpgYYpbkmfqkBlts.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR500867"
+        },
+        {
+          "type": "image",
+          "src": "/media/3WoiQs0SgK0rVlQsabxjVZ7Ufpo.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR500836"
+        },
+        {
+          "type": "image",
+          "src": "/media/HCoD4Qed60p9dcXVlEWyA4xo.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR500417-Enhanced-NR"
+        },
+        {
+          "type": "image",
+          "src": "/media/8q2P0EoHGYSqgeNyzxOYc6dlBKw.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR500684"
+        },
+        {
+          "type": "image",
+          "src": "/media/KTJaE2LitSFVm1Kda2GegxPphQE.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR501249"
+        },
+        {
+          "type": "image",
+          "src": "/media/vwSAotHTMPGzNAr0BtHO4mFdMc.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR501105"
+        },
+        {
+          "type": "image",
+          "src": "/media/4Rb7X61Ww1xFJr1b1z8U92fpwU.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR500999-Enhanced-NR"
+        },
+        {
+          "type": "image",
+          "src": "/media/ffjVqVKMtns2IYvubcWu1NfctDA.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR501265"
+        },
+        {
+          "type": "image",
+          "src": "/media/nzP67qrtnjMyt2LInN7ig6ZAtmo.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR500159"
+        },
+        {
+          "type": "image",
+          "src": "/media/K7fcn5JCwBVlxk4ho6dHk6QFGg.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR500409"
+        },
+        {
+          "type": "image",
+          "src": "/media/thPW3Z2mxPWoJ4oSHLMIQSbOed4.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR500758"
+        },
+        {
+          "type": "image",
+          "src": "/media/xJmeBBaHW7EFiar5TjFUUTsmXNY.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR500602"
+        },
+        {
+          "type": "image",
+          "src": "/media/1vXAYn8fgSejcYNQetYkPoitmog.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR501250"
+        },
+        {
+          "type": "image",
+          "src": "/media/pKMFbaSQbijQhhaPKoEvhVIH94.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR501206-Enhanced-NR"
+        },
+        {
+          "type": "image",
+          "src": "/media/umza6T71gE1OF4AnDjixvuBLWXM.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR500997"
+        },
+        {
+          "type": "image",
+          "src": "/media/31ecmM7IAozo0UF6n1PTb7tmQY.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR501241-Enhanced-NR"
+        },
+        {
+          "type": "image",
+          "src": "/media/4bJmV9RNpOycWTgOPB8kF1uMk.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR500393"
+        },
+        {
+          "type": "image",
+          "src": "/media/cUkIYaAf7NzxicwKlYQhoTl6KIA.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR500523"
+        },
+        {
+          "type": "image",
+          "src": "/media/7Bq3GjPudOT6xjadARgEgQmKJds.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR501380"
+        },
+        {
+          "type": "image",
+          "src": "/media/W0qCnNQrmEqfi0AQzd3qlbE4rU.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR501300-2"
+        },
+        {
+          "type": "image",
+          "src": "/media/PLpzFBak47MvJ8xOeh1SUQNA37I.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR501285-Enhanced-NR"
+        },
+        {
+          "type": "image",
+          "src": "/media/BCLk3q5WwZ60rPTmxU9UKiw1QY.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR501283"
+        },
+        {
+          "type": "image",
+          "src": "/media/dx2Y7fLEzLD1F3DOTwS9mySiao.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR501273-Enhanced-NR"
+        },
+        {
+          "type": "image",
+          "src": "/media/suSFxPwBJqywEJ7CzNkrQAQtzq8.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR500340"
+        },
+        {
+          "type": "image",
+          "src": "/media/fPBYUy14MwH7lYNquIXICI2Mc.webp",
+          "width": 480,
+          "height": 721,
+          "aspect": 0.665742,
+          "alt": "AR500492"
+        },
+        {
+          "type": "image",
+          "src": "/media/GDFtiVjyjLbZjWwzbRD0zLQAxaA.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR500927"
+        },
+        {
+          "type": "image",
+          "src": "/media/HYY1KigSzKTHlFaOR6lIUXUqg.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR501449"
+        },
+        {
+          "type": "image",
+          "src": "/media/y8N2Od4fQcttPoBq5hCafMM.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR501432"
+        },
+        {
+          "type": "image",
+          "src": "/media/VRd3f4SuseDAvHFfG08K8JO5Zc.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR501399"
+        },
+        {
+          "type": "image",
+          "src": "/media/o8A1izuqw0REN33BwAH7W4crSA.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR501321"
+        },
+        {
+          "type": "image",
+          "src": "/media/2qRyKn9G7XgZlkDspWHlyRRJNGc.webp",
+          "width": 480,
+          "height": 320,
+          "aspect": 1.5,
+          "alt": "AR500486"
+        },
+        {
+          "type": "image",
+          "src": "/media/3VABR5WH4FSfQu6u1avJwyImU.webp",
+          "width": 480,
+          "height": 320,
+          "aspect": 1.5,
+          "alt": "AR501385-Enhanced-NR-2"
+        },
+        {
+          "type": "image",
+          "src": "/media/hLffWbmE6joExDZ8wD7mjzshM74.webp",
+          "width": 480,
+          "height": 320,
+          "aspect": 1.5,
+          "alt": "AR501344"
+        },
+        {
+          "type": "image",
+          "src": "/media/6ctTwbjY2NJhQdVCNLEFHTzNANk.webp",
+          "width": 480,
+          "height": 320,
+          "aspect": 1.5,
+          "alt": "AR501342"
+        },
+        {
+          "type": "image",
+          "src": "/media/GeS2nQ4BBERnvtxVKs2VMhqj5Q.webp",
+          "width": 480,
+          "height": 320,
+          "aspect": 1.5,
+          "alt": "AR501153"
+        },
+        {
+          "type": "image",
+          "src": "/media/X8ucukz4MRX9s7ckChF216hpm4.webp",
+          "width": 480,
+          "height": 320,
+          "aspect": 1.5,
+          "alt": "AR501094"
+        },
+        {
+          "type": "image",
+          "src": "/media/AR7uGxDJYDb8nNWgtXOK47NJUk.webp",
+          "width": 480,
+          "height": 320,
+          "aspect": 1.5,
+          "alt": "AR500399"
+        },
+        {
+          "type": "image",
+          "src": "/media/Q7ZLYU855aM828NzdeIXGl94h8M.webp",
+          "width": 480,
+          "height": 320,
+          "aspect": 1.5,
+          "alt": "AR501067"
+        },
+        {
+          "type": "image",
+          "src": "/media/g8GhiKpUVyBkRklneVkV9bSo14U.webp",
+          "width": 480,
+          "height": 320,
+          "aspect": 1.5,
+          "alt": "AR501006"
+        },
+        {
+          "type": "image",
+          "src": "/media/WwZ4g3YmKYnmOzgfi8TnK2a8LY.webp",
+          "width": 480,
+          "height": 320,
+          "aspect": 1.5,
+          "alt": "AR500651"
+        },
+        {
+          "type": "image",
+          "src": "/media/yJ1NgxMy2okS59lHyH4Fzd7U.webp",
+          "width": 480,
+          "height": 320,
+          "aspect": 1.5,
+          "alt": "AR500509"
+        }
+      ]
+    },
+    {
+      "id": "run-the-jewels",
+      "label": "Run The Jewels",
+      "slides": [
+        {
+          "type": "image",
+          "src": "/media/qjtpr9OrbpLFDCCCHHedCiiiUc4.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "RTJ1"
+        },
+        {
+          "type": "image",
+          "src": "/media/V36pS76hpPhfW2YXwF5NkeFTld0.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "RTJ2"
+        },
+        {
+          "type": "image",
+          "src": "/media/qPtFHoWitfFR25qzXjED7CVuxv4.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "RTJ3"
+        },
+        {
+          "type": "image",
+          "src": "/media/Pv8BBlBVfT8M3SzuWv19DIrDxLg.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR500056-Enhanced-NR"
+        },
+        {
+          "type": "image",
+          "src": "/media/rZV653cQAdCLrS13E3JOOs5uoLk.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR509629"
+        },
+        {
+          "type": "image",
+          "src": "/media/n8kn0aSekFR6vXiSOJvTKxrrjYs.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR509572"
+        },
+        {
+          "type": "image",
+          "src": "/media/bEMrxfw6MBf3ZLXJiI7jtnbqJg.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR500045"
+        },
+        {
+          "type": "image",
+          "src": "/media/r4wSrAoxzJkJIz3gC4GCjOzL8.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR509949-Enhanced-NR"
+        },
+        {
+          "type": "image",
+          "src": "/media/7jhIXPXmOmBuWrGB3wptSzgEVC0.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR509981"
+        },
+        {
+          "type": "image",
+          "src": "/media/zdrcvrvC2XCb94sCbyQISTNxZo.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR509606-Enhanced-NR"
+        },
+        {
+          "type": "image",
+          "src": "/media/ayzPwQq5MCeWJBu42bBNpFY8XI.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "AR509763"
+        },
+        {
+          "type": "image",
+          "src": "/media/pJzZj1x6JyfNHlRD9EfccvYPDto.webp",
+          "width": 480,
+          "height": 320,
+          "aspect": 1.5,
+          "alt": "AR500106"
+        },
+        {
+          "type": "image",
+          "src": "/media/nm6SO1wvzUdehGDL4wUlk05cI.webp",
+          "width": 480,
+          "height": 320,
+          "aspect": 1.5,
+          "alt": "AR500071"
+        },
+        {
+          "type": "image",
+          "src": "/media/vU18BOSLIAZJWEy1xdgWkdEvM.webp",
+          "width": 480,
+          "height": 320,
+          "aspect": 1.5,
+          "alt": "AR509566"
+        }
+      ]
+    },
+    {
+      "id": "queenielasoul",
+      "label": "Queenie LaSoul",
+      "slides": [
+        {
+          "type": "image",
+          "src": "/media/q8VtwQQaBNKHHqXtkumM6iCw.webp",
+          "width": 480,
+          "height": 631,
+          "aspect": 0.760697,
+          "alt": "Q1001558"
+        },
+        {
+          "type": "image",
+          "src": "/media/vyXIeur310fo9A22LQXdiWK2wc.webp",
+          "width": 480,
+          "height": 557,
+          "aspect": 0.861759,
+          "alt": "Q1001561"
+        },
+        {
+          "type": "image",
+          "src": "/media/b644Q9GChKRyC3DG9BzZv7AVb0.webp",
+          "width": 480,
+          "height": 680,
+          "aspect": 0.705882,
+          "alt": "Q1001547"
+        },
+        {
+          "type": "image",
+          "src": "/media/iUn3xGLC4bT7pBiMR3iaIfZsF0s.webp",
+          "width": 480,
+          "height": 676,
+          "aspect": 0.710059,
+          "alt": "Q1001630"
+        },
+        {
+          "type": "image",
+          "src": "/media/xbfdKdKhrsPfGXzQhkhFBaekYo.webp",
+          "width": 480,
+          "height": 704,
+          "aspect": 0.681818,
+          "alt": "Q1001637"
+        },
+        {
+          "type": "image",
+          "src": "/media/GqDzrtjRFpUHlEOMEAxChoRjitg.webp",
+          "width": 480,
+          "height": 731,
+          "aspect": 0.656635,
+          "alt": "Q1001642"
+        },
+        {
+          "type": "image",
+          "src": "/media/Q8cB5WwFWJLuaOMHXRdkG1TS7JA.webp",
+          "width": 480,
+          "height": 679,
+          "aspect": 0.706922,
+          "alt": "Q1001577"
+        },
+        {
+          "type": "image",
+          "src": "/media/Z1eBnWqTteq1piM5EdYQSOMaFzM.webp",
+          "width": 480,
+          "height": 709,
+          "aspect": 0.67701,
+          "alt": "Q1001564"
+        },
+        {
+          "type": "image",
+          "src": "/media/ymgX4pxuzl7BlwPvnj13JdY4.webp",
+          "width": 480,
+          "height": 721,
+          "aspect": 0.665742,
+          "alt": "Q1001681"
+        },
+        {
+          "type": "image",
+          "src": "/media/s8Y35nxbiHBRDuW3HOM5cDxu0o.webp",
+          "width": 480,
+          "height": 769,
+          "aspect": 0.624187,
+          "alt": "Q1001665"
+        },
+        {
+          "type": "image",
+          "src": "/media/0SlO4CdxyxBdH8fJA2ahZu8qRU.webp",
+          "width": 480,
+          "height": 721,
+          "aspect": 0.665742,
+          "alt": "Q1001661"
+        },
+        {
+          "type": "image",
+          "src": "/media/K7DEETQY8NIzMSxdsJrbME7iuk.webp",
+          "width": 480,
+          "height": 706,
+          "aspect": 0.679887,
+          "alt": "Q1001667"
+        }
+      ]
+    },
+    {
+      "id": "being-indie-is-major",
+      "label": "Being Indie Is Major",
+      "slides": [
+        {
+          "type": "image",
+          "src": "/media/0j6iPVKfMShDB7Nyh3eHZG5Q4f8.webp",
+          "width": 933,
+          "height": 1400,
+          "aspect": 0.666429,
+          "alt": "bonfyre 2"
+        },
+        {
+          "type": "image",
+          "src": "/media/n74Zz3buB3w46j3uC1prfnOdY.webp",
+          "width": 933,
+          "height": 1400,
+          "aspect": 0.666429,
+          "alt": "bonfyre 4"
+        },
+        {
+          "type": "image",
+          "src": "/media/CHYbTZeDmQipqdT1DXWti9iNg.webp",
+          "width": 933,
+          "height": 1400,
+          "aspect": 0.666429,
+          "alt": "bonfyre 3"
+        },
+        {
+          "type": "image",
+          "src": "/media/p6TB0aJUQuLP1yOMtMj75bQ8AU.webp",
+          "width": 933,
+          "height": 1400,
+          "aspect": 0.666429,
+          "alt": "bonfyre 1"
+        },
+        {
+          "type": "image",
+          "src": "/media/jeeyFvZDW7aJvqZpKqTotClTw5I.webp",
+          "width": 933,
+          "height": 1400,
+          "aspect": 0.666429,
+          "alt": "67eb0debecf402cef8e1855c BeingIndieIsMajor_HeyJasmineJ_151"
+        },
+        {
+          "type": "image",
+          "src": "/media/wjYMS3UDYvClfRLCfmTfUgF32o.webp",
+          "width": 933,
+          "height": 1400,
+          "aspect": 0.666429,
+          "alt": "67eb0de40dabccb78e0c49cf BeingIndieIsMajor_HeyJasmineJ_150"
+        },
+        {
+          "type": "image",
+          "src": "/media/bAIKMwHm8jvgLgtbwRq6TuMD9o.webp",
+          "width": 933,
+          "height": 1400,
+          "aspect": 0.666429,
+          "alt": "67eb0de465a2cf2016b751e7 BeingIndieIsMajor_HeyJasmineJ_71"
+        },
+        {
+          "type": "image",
+          "src": "/media/0eYzqyqmmOySGpsgHqa3JOvXVTw.webp",
+          "width": 933,
+          "height": 1400,
+          "aspect": 0.666429,
+          "alt": "67eb0de485bed5739568e2bf BeingIndieIsMajor_HeyJasmineJ_167"
+        },
+        {
+          "type": "image",
+          "src": "/media/PASza4UwVFnjhfLJdQcYZclj0g.webp",
+          "width": 933,
+          "height": 1400,
+          "aspect": 0.666429,
+          "alt": "67eb0de42dc70b689c2f11bd BeingIndieIsMajor_HeyJasmineJ_162"
+        },
+        {
+          "type": "image",
+          "src": "/media/UhnLsmiYG6L2BHfMqI9NwnF7paQ.webp",
+          "width": 933,
+          "height": 1400,
+          "aspect": 0.666429,
+          "alt": "67eb0de385bed5739568e215 BeingIndieIsMajor_HeyJasmineJ_115"
+        },
+        {
+          "type": "image",
+          "src": "/media/zqyX4bgafsAF1wf1w7XoEO7lSqk.webp",
+          "width": 933,
+          "height": 1400,
+          "aspect": 0.666429,
+          "alt": "67eb0de5a3a89bce9b903323 BeingIndieIsMajor_HeyJasmineJ_129"
+        },
+        {
+          "type": "image",
+          "src": "/media/lwjaOTgFnVOsfQqzjolelRWeo8.webp",
+          "width": 933,
+          "height": 1400,
+          "aspect": 0.666429,
+          "alt": "67eb0de32c0b09e8f6107fa6 BeingIndieIsMajor_HeyJasmineJ_8"
+        },
+        {
+          "type": "image",
+          "src": "/media/CMj9QPQCfrot9IQrzKzSQoZVS0.webp",
+          "width": 933,
+          "height": 1400,
+          "aspect": 0.666429,
+          "alt": "67eb0de869c4da290ba46e39 BeingIndieIsMajor_HeyJasmineJ_9"
+        },
+        {
+          "type": "image",
+          "src": "/media/asShbKBgmR10X9QsRZAFYLnRE.webp",
+          "width": 2489,
+          "height": 1400,
+          "aspect": 1.777857,
+          "alt": "67eb0de685bed5739568e4de BeingIndieIsMajor_HeyJasmineJ_1"
+        },
+        {
+          "type": "image",
+          "src": "/media/tefvczLWxSq0LmKZhGnMF6Qe1Y.webp",
+          "width": 933,
+          "height": 1400,
+          "aspect": 0.666429,
+          "alt": "67eb0de2e92883a12855bf8c BeingIndieIsMajor_HeyJasmineJ_31"
+        },
+        {
+          "type": "image",
+          "src": "/media/6qHb5WTQhJfeODXuKshJw5zso.webp",
+          "width": 933,
+          "height": 1400,
+          "aspect": 0.666429,
+          "alt": "67eb0de34444fe3be438d66d BeingIndieIsMajor_HeyJasmineJ_20"
+        },
+        {
+          "type": "image",
+          "src": "/media/yEIBbqG1y76iTC9eXxsXF9WUhE.webp",
+          "width": 933,
+          "height": 1400,
+          "aspect": 0.666429,
+          "alt": "67eb0de39c912f3385e1a8b2 BeingIndieIsMajor_HeyJasmineJ_13"
+        },
+        {
+          "type": "image",
+          "src": "/media/VlUsQk7Zb1AE1Y4XAGy8f9zXw.webp",
+          "width": 933,
+          "height": 1400,
+          "aspect": 0.666429,
+          "alt": "67eb0de465a2cf2016b751f1 BeingIndieIsMajor_HeyJasmineJ_23"
+        }
+      ]
+    },
+    {
+      "id": "live-shows",
+      "label": "More Live Shows",
+      "slides": [
+        {
+          "type": "image",
+          "src": "/media/ejcdNzJuz9fGxoRr0ZkAKf6JpA.webp",
+          "width": 1365,
+          "height": 2048,
+          "aspect": 0.666504,
+          "alt": "mario other 1"
+        },
+        {
+          "type": "image",
+          "src": "/media/iD0slZjrqzl7k6TrIHy78YJc8.webp",
+          "width": 1413,
+          "height": 2048,
+          "aspect": 0.689941,
+          "alt": "mario other 2"
+        },
+        {
+          "type": "image",
+          "src": "/media/pwTI6CN2ztYBtWMqDYPkJAOFlY.webp",
+          "width": 2500,
+          "height": 3372,
+          "aspect": 0.7414,
+          "alt": "stp 2"
+        },
+        {
+          "type": "image",
+          "src": "/media/cJAbqd1pM9yfBPyiKLXtUK62iQ.webp",
+          "width": 1690,
+          "height": 2048,
+          "aspect": 0.825195,
+          "alt": "stp 2"
+        },
+        {
+          "type": "image",
+          "src": "/media/ETQOTIUyIeunIs3JA0gWFlw3zJM.webp",
+          "width": 2500,
+          "height": 3527,
+          "aspect": 0.708818,
+          "alt": "tyler 1"
+        },
+        {
+          "type": "image",
+          "src": "/media/DkmrKhl1UUO2tCxgMEUyEDElTw.webp",
+          "width": 2500,
+          "height": 3005,
+          "aspect": 0.831947,
+          "alt": "tyler 2"
+        },
+        {
+          "type": "image",
+          "src": "/media/TohHatH4t6EaJzeCRbodkAgd8a8.webp",
+          "width": 1769,
+          "height": 2160,
+          "aspect": 0.818981,
+          "alt": "tyler 3"
+        },
+        {
+          "type": "image",
+          "src": "/media/n98m6JmkRbNxBUd7X7XTGyCgYQ.webp",
+          "width": 2500,
+          "height": 3048,
+          "aspect": 0.82021,
+          "alt": "eric b"
+        },
+        {
+          "type": "image",
+          "src": "/media/lXIqVCQ03cwE7WKKj1YO9zu72s.webp",
+          "width": 1869,
+          "height": 2048,
+          "aspect": 0.912598,
+          "alt": "67ea9298a1e5794beb12067c DSC09215-Edit"
+        },
+        {
+          "type": "image",
+          "src": "/media/faS0XGU2kcRIOI9H6m0LdUEIVOU.webp",
+          "width": 1365,
+          "height": 2048,
+          "aspect": 0.666504,
+          "alt": "67ea9298d9e0c98bf3d343a2 DSC09032-Edit-Edit"
+        },
+        {
+          "type": "image",
+          "src": "/media/NJo3ty5UNBMkObV2kVp77xPaQs.webp",
+          "width": 1725,
+          "height": 2048,
+          "aspect": 0.842285,
+          "alt": "67ea929808f6ccf060172da8 DSC09078-Edit"
+        },
+        {
+          "type": "image",
+          "src": "/media/9WvCfP0WxlWDkf8UAQQ4hBbZLog.webp",
+          "width": 1365,
+          "height": 2048,
+          "aspect": 0.666504,
+          "alt": "67ea9298ffd3bf52e2f6669d DSC09291-Enhanced-NR"
+        },
+        {
+          "type": "image",
+          "src": "/media/hZDdwzDvvBT4t1OdC64hAKfRvc.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "DSC02043"
+        },
+        {
+          "type": "image",
+          "src": "/media/pp0sofTIEUjj6qrwtyB6ctS8U.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "DSC02041"
+        },
+        {
+          "type": "image",
+          "src": "/media/UMyRMRAoB71kGVb1jLUBgGzokI.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "DSC02034"
+        }
+      ]
+    },
+    {
+      "id": "animals",
+      "label": "Animals",
+      "slides": [
+        {
+          "type": "image",
+          "src": "/media/J7lGh1F7NdeLrQxQRZxRIqezj5Q.webp",
+          "width": 896,
+          "height": 1280,
+          "aspect": 0.7,
+          "alt": "Uganda 1"
+        },
+        {
+          "type": "image",
+          "src": "/media/ACVuCDehtYYNrk3GgfZI7xTsO7U.webp",
+          "width": 855,
+          "height": 1280,
+          "aspect": 0.667969,
+          "alt": "Uganda 2"
+        },
+        {
+          "type": "image",
+          "src": "/media/U6rcUPgdd3dibnzb8e24onmVaOs.webp",
+          "width": 855,
+          "height": 1280,
+          "aspect": 0.667969,
+          "alt": "Uganda 3"
+        },
+        {
+          "type": "video",
+          "src": "/media/6tSheqziZxDZ7qnnHPZELqCU.mp4",
+          "poster": "/media/vqznM3TgzEMHwxkqW0BPiOXkaPo.webp",
+          "width": 1184,
+          "height": 2002,
+          "aspect": 0.591409,
+          "alt": "Uganda Video"
+        },
+        {
+          "type": "image",
+          "src": "/media/dhsiDPICG7oSB7r58PpUmQEyr7g.webp",
+          "width": 5175,
+          "height": 6336,
+          "aspect": 0.816761,
+          "alt": "Animal 1"
+        },
+        {
+          "type": "image",
+          "src": "/media/ktYccPN5rohjYGuXoPb28uy6c5Q.webp",
+          "width": 1368,
+          "height": 2048,
+          "aspect": 0.667969,
+          "alt": "67ea92ec4a686aeaef9beda8 IMG_4333"
+        },
+        {
+          "type": "image",
+          "src": "/media/WbPAB80d1jj0jdatDMRpXWsEhQ.webp",
+          "width": 2500,
+          "height": 3545,
+          "aspect": 0.705219,
+          "alt": "67ea92ecc71f58e01f57a91a AR501014"
+        },
+        {
+          "type": "image",
+          "src": "/media/wTbOqlX2TsIrLpvIIaPYOGg18.webp",
+          "width": 2500,
+          "height": 3743,
+          "aspect": 0.667913,
+          "alt": "67ea92ed288df989fe6fa6b8 DSC07519"
+        },
+        {
+          "type": "image",
+          "src": "/media/3TN9wYfca3TohgiZetn9R3nX8.webp",
+          "width": 2325,
+          "height": 3347,
+          "aspect": 0.694652,
+          "alt": "67ea92ed4643007104a368a7 DSC07553"
+        },
+        {
+          "type": "image",
+          "src": "/media/hXYBN0NyTFSpZEWfZBJ0gOmgGaY.webp",
+          "width": 2500,
+          "height": 3743,
+          "aspect": 0.667913,
+          "alt": "67ea92ed127dd7ccec60c5f7 DSC07601"
+        },
+        {
+          "type": "image",
+          "src": "/media/MLbttYQOkn4yzbLalVQYDuyY5Zk.webp",
+          "width": 1368,
+          "height": 2048,
+          "aspect": 0.667969,
+          "alt": "67ea92edbd20f3110ebef72a IMG_4373"
+        },
+        {
+          "type": "image",
+          "src": "/media/NI5bcunAtuXGysn6HHm937y9EOY.webp",
+          "width": 2500,
+          "height": 1879,
+          "aspect": 1.330495,
+          "alt": "67ea92edef56ce84780ba6f5 DSC07561"
+        },
+        {
+          "type": "image",
+          "src": "/media/JvaqLF58D0seeCxmol3oGmAFEnQ.jpg",
+          "width": 5493,
+          "height": 8254,
+          "aspect": 0.665496,
+          "alt": "Elephants 1"
+        },
+        {
+          "type": "image",
+          "src": "/media/XxbdFZlzv5dkNGE4Qmk1Ii1acM.webp",
+          "width": 1693,
+          "height": 2544,
+          "aspect": 0.665487,
+          "alt": "Elephants 2"
+        },
+        {
+          "type": "image",
+          "src": "/media/O9RbxpVFxtfEmlk5On9XWMvrA.webp",
+          "width": 1356,
+          "height": 2038,
+          "aspect": 0.665358,
+          "alt": "Elephants 3"
+        },
+        {
+          "type": "image",
+          "src": "/media/xdLccc069BE5vkAICvjC1377NME.webp",
+          "width": 1523,
+          "height": 2289,
+          "aspect": 0.665356,
+          "alt": "Elephants 4"
+        },
+        {
+          "type": "image",
+          "src": "/media/nP7dV0SYHuTFjFbNy39WSvSuWfw.jpg",
+          "width": 4952,
+          "height": 7441,
+          "aspect": 0.665502,
+          "alt": "Elephants 5"
+        },
+        {
+          "type": "image",
+          "src": "/media/uQmSUtLT8JzdpIK6zFlgRNj78.jpg",
+          "width": 3594,
+          "height": 5400,
+          "aspect": 0.665556,
+          "alt": "Elephants 6"
+        },
+        {
+          "type": "image",
+          "src": "/media/mUyXZcLfoU6PwevIZwpNFGlcI.jpg",
+          "width": 3129,
+          "height": 4702,
+          "aspect": 0.665462,
+          "alt": "Elephants 7"
+        },
+        {
+          "type": "image",
+          "src": "/media/uQmSUtLT8JzdpIK6zFlgRNj78.jpg",
+          "width": 3594,
+          "height": 5400,
+          "aspect": 0.665556,
+          "alt": "Elephants 8"
+        },
+        {
+          "type": "image",
+          "src": "/media/n2cVq0a4YuziycJnZGxubjFgEBY.webp",
+          "width": 1824,
+          "height": 2741,
+          "aspect": 0.665451,
+          "alt": "Elephants 9"
+        },
+        {
+          "type": "image",
+          "src": "/media/x3YszI1TxBkP3lqsxWSd0WAoIn0.webp",
+          "width": 6336,
+          "height": 9520,
+          "aspect": 0.665546,
+          "alt": "Elephants 10"
+        },
+        {
+          "type": "image",
+          "src": "/media/YNcc5yW8BrvcfKhP1Z3WWeLWKi8.jpg",
+          "width": 6336,
+          "height": 9520,
+          "aspect": 0.665546,
+          "alt": "Elephants 11"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "label": "Travel",
+      "slides": [
+        {
+          "type": "image",
+          "src": "/media/5eeSMGa15VGPvFTi1jmju1ISIqk.webp",
+          "width": 819,
+          "height": 1186,
+          "aspect": 0.690556,
+          "alt": "67ea92dd776ae2551a39ab2b L1022133"
+        },
+        {
+          "type": "image",
+          "src": "/media/JdhsVOF6imeZGWu7n3RRxxVGcw.jpg",
+          "width": 6336,
+          "height": 9520,
+          "aspect": 0.665546,
+          "alt": "Bali6"
+        },
+        {
+          "type": "image",
+          "src": "/media/gqsEDDOUjDdIBJirrBbB5uh4.jpg",
+          "width": 6336,
+          "height": 9520,
+          "aspect": 0.665546,
+          "alt": "Bali1"
+        },
+        {
+          "type": "image",
+          "src": "/media/sPl3JxhlsLRpQ45MG7of1xbt8.jpg",
+          "width": 6336,
+          "height": 9520,
+          "aspect": 0.665546,
+          "alt": "Bali2"
+        },
+        {
+          "type": "image",
+          "src": "/media/A129qauzgCx2nKg7V2VkexA5U.jpg",
+          "width": 6336,
+          "height": 9520,
+          "aspect": 0.665546,
+          "alt": "Bali3"
+        },
+        {
+          "type": "image",
+          "src": "/media/5N6z4i5SNkl3Fx10KzXc4xntJqg.jpg",
+          "width": 5650,
+          "height": 8490,
+          "aspect": 0.665489,
+          "alt": "Bali4"
+        },
+        {
+          "type": "image",
+          "src": "/media/LFaV65xRoqQUodlioumlfpxdFc.jpg",
+          "width": 6336,
+          "height": 9520,
+          "aspect": 0.665546,
+          "alt": "Bali5"
+        },
+        {
+          "type": "image",
+          "src": "/media/PWJ3KCbnMOyQ21diIroUm9UC6NE.jpg",
+          "width": 6336,
+          "height": 9520,
+          "aspect": 0.665546,
+          "alt": "Bali7"
+        },
+        {
+          "type": "image",
+          "src": "/media/ZnJtsb3zozo0hh3b6OvyrIjKU.jpg",
+          "width": 6336,
+          "height": 9520,
+          "aspect": 0.665546,
+          "alt": "Bali8"
+        },
+        {
+          "type": "image",
+          "src": "/media/7ssfYn6bHAJMX7IWHxm95YMiM.webp",
+          "width": 778,
+          "height": 1170,
+          "aspect": 0.664957,
+          "alt": "67ea92dd6bfc54f874ecdc2c L1000855"
+        },
+        {
+          "type": "image",
+          "src": "/media/C3zJ8FQaUiinJCybOdgph0vE6I0.webp",
+          "width": 2500,
+          "height": 3756,
+          "aspect": 0.665602,
+          "alt": "67ea92e0609cfc6c54cc9368 L1002997"
+        },
+        {
+          "type": "image",
+          "src": "/media/6w57KSCS2rIJXmHHG2Z9XEbwpM.webp",
+          "width": 756,
+          "height": 1135,
+          "aspect": 0.666079,
+          "alt": "67ea92e0d453147da3b12d7d Q1001045"
+        },
+        {
+          "type": "image",
+          "src": "/media/B69hu4a8NofIlkZrPh5sOlLJcBU.webp",
+          "width": 881,
+          "height": 1323,
+          "aspect": 0.665911,
+          "alt": "67ea92dcc807abe5c9e54036 DO01000378.1"
+        },
+        {
+          "type": "image",
+          "src": "/media/28TSY94v9mIKajiIbndGYwywKs.webp",
+          "width": 1368,
+          "height": 2048,
+          "aspect": 0.667969,
+          "alt": "67ea92ddda7067ffee2946b8 IMG_4350"
+        },
+        {
+          "type": "image",
+          "src": "/media/ufr9XkILCjxPteDfX4CYRmAF8.webp",
+          "width": 681,
+          "height": 1023,
+          "aspect": 0.665689,
+          "alt": "67ea92ddd9582ba7ef12e9ef L1022089"
+        },
+        {
+          "type": "image",
+          "src": "/media/J8EggtDw8Im2g0fElyz7QcTSBQ.webp",
+          "width": 1366,
+          "height": 2048,
+          "aspect": 0.666992,
+          "alt": "67ea92de2ad1f8dcb8f49ae4 Mexico-25"
+        },
+        {
+          "type": "image",
+          "src": "/media/3wvlqHFhTtbll8ii7CcbWx4e0.webp",
+          "width": 764,
+          "height": 1203,
+          "aspect": 0.635079,
+          "alt": "67ea92dec4085692307931b9 L1022134"
+        },
+        {
+          "type": "image",
+          "src": "/media/HmpRlPHjDdIhBK8MgkvmjYAs.webp",
+          "width": 1366,
+          "height": 2048,
+          "aspect": 0.666992,
+          "alt": "67ea92de7cb7f9557092ec9d Mexico-21"
+        },
+        {
+          "type": "image",
+          "src": "/media/sPbmHhv2SRxeEXms2oqJ5aS3U.webp",
+          "width": 2500,
+          "height": 1667,
+          "aspect": 1.4997,
+          "alt": "67ea92dedec8e4a7f4a4709c Photo_6553899_DJI_299_jpg_7806105_0_202252941926_photo_original"
+        },
+        {
+          "type": "image",
+          "src": "/media/DWY7jRCD12TNxEjz4oidtVNvE.webp",
+          "width": 966,
+          "height": 1227,
+          "aspect": 0.787286,
+          "alt": "67ea92dd72ab5b2a7e42bbee DO01010401"
+        },
+        {
+          "type": "image",
+          "src": "/media/XGghSzdCKkBo9WeB3F4hmfznjg.webp",
+          "width": 1368,
+          "height": 2048,
+          "aspect": 0.667969,
+          "alt": "67ea92dd4a686aeaef9be1a8 IMG_4351"
+        },
+        {
+          "type": "image",
+          "src": "/media/czG0K8FHwjuB1B9t8RCcwAg.webp",
+          "width": 886,
+          "height": 1332,
+          "aspect": 0.665165,
+          "alt": "67ea92ddffd3bf52e2f6a454 DO01010407"
+        },
+        {
+          "type": "image",
+          "src": "/media/eaBIesRBZGSvGsLYTXXOSju0GCs.webp",
+          "width": 480,
+          "height": 721,
+          "aspect": 0.665742,
+          "alt": "L1020812"
+        },
+        {
+          "type": "image",
+          "src": "/media/Lw6bvP8HmHnyglGA5xxrry7vcG4.webp",
+          "width": 480,
+          "height": 720,
+          "aspect": 0.666667,
+          "alt": "L1020081"
+        },
+        {
+          "type": "image",
+          "src": "/media/72bd5n6ZreWMcR0mjQkUad82vQ.webp",
+          "width": 480,
+          "height": 721,
+          "aspect": 0.665742,
+          "alt": "L1020997"
+        },
+        {
+          "type": "image",
+          "src": "/media/jUBupzmOI64Or6YPmdn6Qalac.webp",
+          "width": 480,
+          "height": 721,
+          "aspect": 0.665742,
+          "alt": "DO01020309"
+        },
+        {
+          "type": "image",
+          "src": "/media/mL3gRdkWxUND0NxsoB2lPyZCRA.webp",
+          "width": 480,
+          "height": 721,
+          "aspect": 0.665742,
+          "alt": "DO01020305"
+        },
+        {
+          "type": "image",
+          "src": "/media/00fQ8bbtc85TeWCqR14enaTLU.webp",
+          "width": 480,
+          "height": 721,
+          "aspect": 0.665742,
+          "alt": "DO01020243"
+        },
+        {
+          "type": "image",
+          "src": "/media/nSNIW951YxKgLg8vP4eXuYkmIg.webp",
+          "width": 480,
+          "height": 721,
+          "aspect": 0.665742,
+          "alt": "DO01020239"
+        }
+      ]
+    },
+    {
+      "id": "sports",
+      "label": "Sports",
+      "slides": [
+        {
+          "type": "image",
+          "src": "/media/j1dOkK3oVunVrUoEoz5hCsQsw.webp",
+          "width": 933,
+          "height": 1400,
+          "aspect": 0.666429,
+          "alt": "67ee056ea82b1877790c04f7 AR502661-Enhanced-NR"
+        },
+        {
+          "type": "video",
+          "src": "/media/tbsHP2WuzP4sBKDBmnqRSZ9KvWM.mp4",
+          "poster": "/media/uSujkzoSy9AEY2OZRFxcN3sPL8.webp",
+          "width": 1236,
+          "height": 2216,
+          "aspect": 0.557762,
+          "alt": "LovB VolleyBall"
+        },
+        {
+          "type": "image",
+          "src": "/media/LUiDzfvLvMTbBvao2sIiRBm1k.webp",
+          "width": 933,
+          "height": 1400,
+          "aspect": 0.666429,
+          "alt": "67ec45a64cf50d2c760256e3 AR503691-Enhanced-NR"
+        },
+        {
+          "type": "image",
+          "src": "/media/hcDJtqh1u2qi5PYzROuccSNnCWs.webp",
+          "width": 933,
+          "height": 1400,
+          "aspect": 0.666429,
+          "alt": "67ec45a44cf50d2c76025600 AR503215-Enhanced-NR"
+        },
+        {
+          "type": "image",
+          "src": "/media/wfHSBgkFoCdkGAOzrQjFq3TNGrU.webp",
+          "width": 934,
+          "height": 1400,
+          "aspect": 0.667143,
+          "alt": "67ec45a36f8db17d830e7e1a AR503076-Enhanced-NR"
+        },
+        {
+          "type": "image",
+          "src": "/media/EJR4XhDIQidzh7SSa3zuLBo.webp",
+          "width": 933,
+          "height": 1400,
+          "aspect": 0.666429,
+          "alt": "67ee05b9b59f048193351f34 AR502661-Enhanced-NR-2"
+        },
+        {
+          "type": "image",
+          "src": "/media/jBhNVg0cjHTLigMQiBbfQDE8Fz8.webp",
+          "width": 933,
+          "height": 1400,
+          "aspect": 0.666429,
+          "alt": "67ec459fa8bc50d648c3a651 AR502490-Enhanced-NR"
+        },
+        {
+          "type": "image",
+          "src": "/media/bQvgeIbxCVaXcSKjylmaEfIbs.webp",
+          "width": 933,
+          "height": 1400,
+          "aspect": 0.666429,
+          "alt": "67ec459f80fbf3c44b12cb89 AR502454-Enhanced-NR-2"
+        },
+        {
+          "type": "image",
+          "src": "/media/7w2FRGpzknYZBCk5DjixHy6M.webp",
+          "width": 933,
+          "height": 1400,
+          "aspect": 0.666429,
+          "alt": "67ec459f0f059b3851bd8f08 AR502468-Enhanced-NR"
+        },
+        {
+          "type": "image",
+          "src": "/media/nHjIa1XrvDVagBBYw5bU12v1ow.webp",
+          "width": 933,
+          "height": 1400,
+          "aspect": 0.666429,
+          "alt": "67ec459e025f662460c6c72a AR502440-Enhanced-NR"
+        },
+        {
+          "type": "image",
+          "src": "/media/pccQlCjzn1hM9LifmThKYipoSE0.webp",
+          "width": 933,
+          "height": 1400,
+          "aspect": 0.666429,
+          "alt": "67ec45a6657691accd083baf AR503608-Enhanced-NR"
+        },
+        {
+          "type": "image",
+          "src": "/media/aoPs7haT1nU2qKNy1yq8v00t2w.webp",
+          "width": 933,
+          "height": 1400,
+          "aspect": 0.666429,
+          "alt": "67ec45a576fdca7fe0029687 AR503311-Enhanced-NR"
+        },
+        {
+          "type": "image",
+          "src": "/media/lQtP8K3bDL50EDUfnL4jIaPul4.webp",
+          "width": 934,
+          "height": 1400,
+          "aspect": 0.667143,
+          "alt": "67ec45a565e4e3220560cd70 AR503388-Enhanced-NR"
+        },
+        {
+          "type": "image",
+          "src": "/media/mBo1l4n1JBv6xHYjMvzsxV2cIbQ.webp",
+          "width": 933,
+          "height": 1400,
+          "aspect": 0.666429,
+          "alt": "67ec45a35fcf0fb9a4b29431 AR502903"
+        },
+        {
+          "type": "image",
+          "src": "/media/JF8tKoUj9BkYdSU6PUqJV6zATA.webp",
+          "width": 933,
+          "height": 1400,
+          "aspect": 0.666429,
+          "alt": "67ec45a31bc63c73c860704b AR502993-Enhanced-NR"
+        },
+        {
+          "type": "image",
+          "src": "/media/hZhpWB0H21bmVELw1rhH2fEye4.webp",
+          "width": 933,
+          "height": 1400,
+          "aspect": 0.666429,
+          "alt": "67ec45a181a6631ef5187928 AR502788-Enhanced-NR"
+        },
+        {
+          "type": "image",
+          "src": "/media/EttIKYJTTzsl76s7FkXceqEYC8Q.webp",
+          "width": 2100,
+          "height": 1400,
+          "aspect": 1.5,
+          "alt": "67ec45a705da2dab42327acc AR503376-Enhanced-NR"
+        }
+      ]
+    }
+  ]
+}

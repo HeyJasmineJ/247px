@@ -1,0 +1,312 @@
+@font-face {
+  font-family: "Big Shoulders Display";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../public/fonts/BigShouldersDisplay.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "JetBrains Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../public/fonts/JetBrainsMono.woff2") format("woff2");
+}
+
+:root {
+  --bg: #000;
+  --text: #f7fff7;
+  --muted: #b3b3b3;
+  --nav: #ccc;
+  --hover: #fff;
+  --sidebar-pad: 36px;
+  --gallery-width: 480px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+html,
+body,
+#root {
+  margin: 0;
+  min-height: 100%;
+  background: var(--bg);
+  color: var(--text);
+}
+
+body {
+  font-family: "JetBrains Mono", ui-monospace, monospace;
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.page {
+  min-height: 100vh;
+  background: #000;
+}
+
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  gap: 36px;
+  width: min(740px, 50vw);
+  height: 100vh;
+  padding: var(--sidebar-pad);
+  background: #000;
+}
+
+.brand h1 {
+  margin: 0;
+  font-family: "Big Shoulders Display", sans-serif;
+  font-size: clamp(56px, 8vw, 100px);
+  font-weight: 400;
+  letter-spacing: -0.04em;
+  line-height: 1;
+}
+
+.brand h1 a {
+  color: var(--text);
+}
+
+.tagline {
+  margin: 8px 0 0;
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 2;
+}
+
+.project-nav {
+  flex: 1;
+  min-height: 0;
+  overflow: auto;
+  padding-left: 24px;
+  margin-left: -12px;
+  scrollbar-width: none;
+}
+
+.project-nav::-webkit-scrollbar {
+  display: none;
+}
+
+.project-nav a {
+  position: relative;
+  display: flex;
+  align-items: center;
+  height: 54px;
+  color: var(--nav);
+  font-size: 24px;
+  line-height: 1.2;
+}
+
+.project-nav a:hover,
+.project-nav a.is-active {
+  color: var(--text);
+}
+
+.nav-mark {
+  display: none;
+  position: absolute;
+  left: -24px;
+  width: 36px;
+  height: 2px;
+  background: var(--text);
+  transform: rotate(-90deg);
+}
+
+.project-nav a.is-active .nav-mark {
+  display: block;
+}
+
+.contact {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.contact a {
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 2;
+}
+
+.contact a:hover {
+  color: var(--hover);
+}
+
+.fade {
+  pointer-events: none;
+  position: fixed;
+  inset: 0;
+  z-index: 1;
+  background: linear-gradient(220deg, #fff0 60%, #000 120%);
+}
+
+.work {
+  position: relative;
+  z-index: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: min(740px, 50vw);
+  margin-left: auto;
+  padding: 20px 0 80px;
+}
+
+.hint {
+  width: 85%;
+  max-width: var(--gallery-width);
+  margin: 0 0 16px;
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 2;
+}
+
+.gallery {
+  width: var(--gallery-width);
+  max-width: 100%;
+  scroll-margin-top: 20px;
+}
+
+.carousel {
+  position: relative;
+  width: 100%;
+  padding: 10px;
+}
+
+.carousel-track {
+  display: flex;
+  gap: 10px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  overflow-x: auto;
+  overflow-y: hidden;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+  cursor: pointer;
+}
+
+.carousel-track::-webkit-scrollbar {
+  display: none;
+}
+
+.carousel-track li {
+  flex: 0 0 100%;
+  scroll-snap-align: center;
+  scroll-snap-stop: always;
+}
+
+.slide {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  background: #111;
+}
+
+.slide img,
+.slide video,
+.slide iframe {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border: 0;
+  object-fit: cover;
+  object-position: center;
+}
+
+.carousel-btn {
+  position: absolute;
+  top: 50%;
+  z-index: 3;
+  display: grid;
+  place-items: center;
+  width: 40px;
+  height: 40px;
+  padding: 0;
+  border: 0;
+  border-radius: 40px;
+  background: rgba(255, 255, 255, 0.29);
+  transform: translateY(-50%);
+  cursor: pointer;
+}
+
+.carousel-btn.prev {
+  left: 18px;
+}
+
+.carousel-btn.next {
+  right: 18px;
+}
+
+.carousel-btn.is-disabled {
+  opacity: 0.25;
+  cursor: default;
+}
+
+.carousel-btn img {
+  display: block;
+  width: 40px;
+  height: 40px;
+}
+
+@media (max-width: 1479.98px) and (min-width: 810px) {
+  .sidebar {
+    width: 50%;
+  }
+
+  .project-nav a {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 809.98px) {
+  .sidebar {
+    position: sticky;
+    top: 0;
+    width: 100%;
+    height: auto;
+    padding: 24px;
+    gap: 0;
+  }
+
+  .brand h1 {
+    font-size: 56px;
+  }
+
+  .tagline {
+    font-size: 12px;
+  }
+
+  .project-nav,
+  .contact,
+  .fade {
+    display: none;
+  }
+
+  .work {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 0 48px;
+  }
+
+  .hint {
+    width: calc(100% - 48px);
+    font-size: 12px;
+  }
+}
