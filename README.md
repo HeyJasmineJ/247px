@@ -30,7 +30,17 @@ npm run preview
 
 ## Add or replace work
 
-Edit `src/data/site.json`. Each gallery is an `id`, a nav `label`, and an ordered `slides` array:
+The live site is static, so new photos are added on your computer and then published with a commit.
+
+1. Run `npm run dev` and open the printed local URL.
+2. Click **Add work** in the sidebar (or go to `/admin`).
+3. Create a gallery or pick an existing one, then drop JPG / PNG / WebP / GIF / MP4 / WebM files.
+4. Click **Save**. Files land in `public/media/` and the gallery is written into `src/data/site.json` in the same format the homepage already reads.
+5. Refresh the homepage to preview, then commit and push to publish.
+
+The editor only writes files while Vite is running locally. It is not available on the deployed GitHub Pages site.
+
+You can still edit `src/data/site.json` by hand. Each gallery is an `id`, a nav `label`, and an ordered `slides` array:
 
 ```json
 {

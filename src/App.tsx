@@ -72,6 +72,9 @@ function App() {
               {link.label}
             </a>
           ))}
+          {import.meta.env.DEV && (
+            <a href="/admin">Add work</a>
+          )}
         </footer>
       </aside>
 
