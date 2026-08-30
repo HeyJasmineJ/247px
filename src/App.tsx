@@ -45,6 +45,11 @@ function App() {
             <a href="./">{data.site.name}</a>
           </h1>
           <p className="tagline">{data.site.tagline}</p>
+          {import.meta.env.DEV && (
+            <p className="dev-banner">
+              <a href="/?admin=1">Open gallery editor</a>
+            </p>
+          )}
         </header>
 
         <nav className="project-nav" aria-label="Projects">
@@ -73,7 +78,7 @@ function App() {
             </a>
           ))}
           {import.meta.env.DEV && (
-            <a href="/admin">Add work</a>
+            <a href="/?admin=1">Add work</a>
           )}
         </footer>
       </aside>

@@ -32,11 +32,14 @@ npm run preview
 
 The live site is static, so new photos are added on your computer and then published with a commit.
 
-1. Run `npm run dev` and open the printed local URL.
-2. Click **Add work** in the sidebar (or go to `/admin`).
-3. Create a gallery or pick an existing one, then drop JPG / PNG / WebP / GIF / MP4 / WebM files.
-4. Click **Save**. Files land in `public/media/` and the gallery is written into `src/data/site.json` in the same format the homepage already reads.
-5. Refresh the homepage to preview, then commit and push to publish.
+1. In this project folder run `npm install` (once) then `npm run dev`.
+2. Open the **localhost** URL printed in the terminal (usually http://localhost:5173/?admin=1). Do not use https://247px.com for uploads.
+3. Or open the homepage and click **Open gallery editor** / **Add work**.
+4. Create a gallery or pick an existing one, then drop JPG / PNG / WebP / GIF / MP4 / WebM files.
+5. Click **Save**. Files land in `public/media/` and the gallery is written into `src/data/site.json` in the same format the homepage already reads.
+6. Open http://localhost:5173/ to preview, then commit and push to publish.
+
+`npm run admin` starts the same local server and opens the editor for you.
 
 The editor only writes files while Vite is running locally. It is not available on the deployed GitHub Pages site.
 

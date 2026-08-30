@@ -25,11 +25,34 @@ async function apiError(res: Response, fallback: string): Promise<string> {
 }
 
 async function readSite(): Promise<SiteData> {
-  const res = await fetch("/api/admin/site");
-  if (!res.ok) {
-    throw new Error("This editor only works while the site is running locally with npm run dev.");
+  let res: Response;
+  try {
+    res = await fetch("/api/admin/site");
+  } catch {
+    throw new Error(
+      "Could not reach the editor API. Run npm run dev in the 247px folder and open the localhost URL it prints — not 247px.com.",
+    );
   }
-  return res.json() as Promise<SiteData>;
+  const text = await res.text();
+  if (!res.ok) {
+    let detail = "";
+    try {
+      detail = (JSON.parse(text) as { error?: string }).error || "";
+    } catch {
+      detail = "";
+    }
+    throw new Error(
+      detail ||
+        `Editor API failed (${res.status}). Run npm run dev in this project folder, then open the localhost URL.`,
+    );
+  }
+  try {
+    return JSON.parse(text) as SiteData;
+  } catch {
+    throw new Error(
+      "The editor API did not start. Stop other servers on this port, then run npm run dev again from the 247px folder.",
+    );
+  }
 }
 
 async function writeSite(data: SiteData): Promise<void> {
@@ -42,9 +65,9 @@ async function writeSite(data: SiteData): Promise<void> {
 }
 
 async function uploadMedia(file: File): Promise<string> {
-  const res = await fetch("/api/admin/media", {
+  const res = await fetch(`/api/admin/media?filename=${encodeURIComponent(file.name)}`, {
     method: "POST",
-    headers: { "X-Filename": file.name },
+    headers: { "Content-Type": "application/octet-stream", "X-Filename": file.name },
     body: file,
   });
   if (!res.ok) throw new Error(await apiError(res, `Upload failed for ${file.name}`));
@@ -299,7 +322,7 @@ export default function Admin() {
       <div className="admin admin-error">
         <h1>Gallery editor</h1>
         <p>{loadError}</p>
-        <p>Run `npm run dev` on your computer, then open /admin.</p>
+        <p>Run <code>npm run dev</code> in the 247px folder, then open the localhost link it prints. Do not use 247px.com for uploads.</p>
         <a href="/">Back to site</a>
       </div>
     );
