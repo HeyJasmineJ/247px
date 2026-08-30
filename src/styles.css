@@ -133,15 +133,22 @@ a {
 }
 
 .contact {
-  display: flex;
-  flex-direction: column;
-  gap: 0;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  column-gap: 24px;
+  row-gap: 0;
+  width: 100%;
 }
 
 .contact a {
   color: var(--muted);
   font-size: 14px;
   line-height: 2;
+  overflow-wrap: anywhere;
+}
+
+.contact a:nth-child(n + 5) {
+  grid-column: 1 / -1;
 }
 
 .contact a:hover {
