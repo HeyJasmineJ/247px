@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "247px - Jasmine Wilson - Austin Texas Photographer",
-    "description": "247px \u2013 The Photo Work of Jasmine Wilson. Austin, TX Based Photographer",
+    "description": "247px – The Photo Work of Jasmine Wilson. Austin, TX Based Photographer",
     "name": "Jasmine Wilson",
     "tagline": "Austin TX Based Photographer",
     "hint": "Use the arrows on each image to view more of the gallery. (Swipe on mobile.) :)",
@@ -813,118 +813,6 @@
           "height": 721,
           "aspect": 0.665742,
           "alt": "L1011648"
-        },
-        {
-          "type": "image",
-          "src": "/media/KnJonpgjdsc76NSOnc2IdrtmbxQ.jpg",
-          "width": 6336,
-          "height": 9504,
-          "aspect": 0.666667,
-          "alt": "Raven 12"
-        },
-        {
-          "type": "image",
-          "src": "/media/syv89qZoU47QGsOe1tWi13i8E4.jpg",
-          "width": 6336,
-          "height": 9504,
-          "aspect": 0.666667,
-          "alt": "Raven 10"
-        },
-        {
-          "type": "image",
-          "src": "/media/KnJonpgjdsc76NSOnc2IdrtmbxQ.jpg",
-          "width": 6336,
-          "height": 9504,
-          "aspect": 0.666667,
-          "alt": "Raven 12"
-        },
-        {
-          "type": "image",
-          "src": "/media/8W5Dv02UBlkemnbsc5IC3WvuI.jpg",
-          "width": 5677,
-          "height": 8515,
-          "aspect": 0.666706,
-          "alt": "Events 1"
-        },
-        {
-          "type": "image",
-          "src": "/media/MQFWdlB1NsD6R9BOtjcf7AnKuDg.jpg",
-          "width": 5723,
-          "height": 8584,
-          "aspect": 0.666705,
-          "alt": "Events 2"
-        },
-        {
-          "type": "image",
-          "src": "/media/qnTRY3iM3IbIt0D2DAAlhIhN0Y.jpg",
-          "width": 6336,
-          "height": 9504,
-          "aspect": 0.666667,
-          "alt": "Events 3"
-        },
-        {
-          "type": "image",
-          "src": "/media/5VhA9ssAHzksIHvpgqtGpFE443Q.jpg",
-          "width": 5666,
-          "height": 8499,
-          "aspect": 0.666667,
-          "alt": "Events 4"
-        },
-        {
-          "type": "image",
-          "src": "/media/uh7bxYYsjzMxq7GMjfhYcJ7UcuQ.jpg",
-          "width": 6336,
-          "height": 9504,
-          "aspect": 0.666667,
-          "alt": "Events 5"
-        },
-        {
-          "type": "image",
-          "src": "/media/SGlHazJ7iGNLpan09dPLjeoV4k.jpg",
-          "width": 6336,
-          "height": 9504,
-          "aspect": 0.666667,
-          "alt": "Events 6"
-        },
-        {
-          "type": "image",
-          "src": "/media/1dlkoNI2e96dl1f7HM7k7ZIIVg.jpg",
-          "width": 6336,
-          "height": 9504,
-          "aspect": 0.666667,
-          "alt": "Events 7"
-        },
-        {
-          "type": "image",
-          "src": "/media/KrNh6w3nQXmmmoOTU805YUBmbX0.jpg",
-          "width": 6336,
-          "height": 9504,
-          "aspect": 0.666667,
-          "alt": "Events 8"
-        },
-        {
-          "type": "image",
-          "src": "/media/zaAh7mtf6ZyRbkfxseczCZWieA.jpg",
-          "width": 5254,
-          "height": 7881,
-          "aspect": 0.666667,
-          "alt": "Events 9"
-        },
-        {
-          "type": "image",
-          "src": "/media/IrnoxaXooiTNLDxGr7MVOiaxKE.jpg",
-          "width": 5307,
-          "height": 7960,
-          "aspect": 0.666709,
-          "alt": "Events 10"
-        },
-        {
-          "type": "image",
-          "src": "/media/0TQYiF6M03LRtRN6rbpVjxy6s2o.jpg",
-          "width": 6336,
-          "height": 9504,
-          "aspect": 0.666667,
-          "alt": "Events 11"
         }
       ]
     },
