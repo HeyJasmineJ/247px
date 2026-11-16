@@ -326,7 +326,7 @@ a {
     bottom: 0;
     z-index: 4;
     display: grid;
-    grid-template-columns: repeat(3, max-content);
+    grid-template-columns: repeat(2, max-content);
     justify-content: center;
     justify-items: center;
     gap: 8px 16px;
